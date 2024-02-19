@@ -17,7 +17,7 @@ Aslo if you see how words are places inside the file you can take 70 entries at 
 **k!quiz conquest name_of_deck(1-70) atl=20**
 **k!quiz conquest name_of_deck(71-140) atl=20**
 
-# credits
+
 
 告活聞前具物
 民線宿水体非
