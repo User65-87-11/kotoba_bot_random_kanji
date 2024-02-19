@@ -21,7 +21,7 @@ Aslo if you see how words are places inside the file you can take 70 entries at 
 **k!quiz conquest name_of_deck(71-140) atl=20**
 
 
-# credits
+# example of N4
 
 告活聞前具物
 
