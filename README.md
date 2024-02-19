@@ -20,8 +20,11 @@ Aslo if you see how words are places inside the file you can take 70 entries at 
 
 
 告活聞前具物
+
 民線宿水体非
+
 屋父灯手景教
+
 因工治案音技
 放複政残別親
 歴文郊興味一
