@@ -44,9 +44,9 @@ void appendFile(std::string filename, std::vector<std::pair<std::string,std::str
         printDebug("append: " + filename);
 
        // myfile<< "Question,Answers,Comment,Instructions,Render as\n";
-        for (auto it = new_words.begin(); it != new_words.end(); ++it) {
+       for (const auto& pair : new_words) {
             
-            myfile<<it->first<<","<<it->second<<",,,\n";
+            myfile<<pair.first<<","<<pair.second<<","<<pair.first<<",,\n";
         }
     }
     else
@@ -67,10 +67,10 @@ void writeFile(std::string filename, std::vector<std::pair<std::string,std::stri
         printDebug("write: " + filename);
 
         myfile<< "Question,Answers,Comment,Instructions,Render as\n";
-         for (const auto& pair : new_words)
+        for (const auto& pair : new_words)
          {
             
-            myfile<<pair.first<<","<<pair.second<<",,,\n";
+            myfile<<pair.first<<","<<pair.second<<","<<pair.first<<",,\n";
         }
     }
     else
