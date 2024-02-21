@@ -2,17 +2,33 @@
 
 #include <vector>
 #include <string>
-#include <map> 
+#include <map>
+
+class Kanji
+{
+public:
+
+  
+
+    void readFileEntries(std::string filename );
+
+    void readFileJouyou(std::string filename );
+
+    void appendFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words);
+
+    void writeFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words);
+
+
+
+private:
+    static int findPosByIdx(std::string str, int idx);
+
+    static int count_utf8(const std::string &str);
 
  
-void randomizePairs( std::vector<std::pair<std::string,std::string>>  &lines);
 
-void printDebug(std::string msg);
-
-int count_utf8(const std::string& str) ;
-
-void readFile(std::string filename, std::vector<std::pair<std::string,std::string>>  &entry);
-
-void writeFile(std::string filename, std::vector<std::pair<std::string,std::string>> &new_words);
-
-void appendFile(std::string filename, std::vector<std::pair<std::string,std::string>> &new_words);
+public:
+    std::map<std::string, std::string> meanings;
+    std::vector<std::pair<std::string, std::string>> entries;
+   
+};
