@@ -47,8 +47,25 @@ void generateWords(
             onyomi.str("");
             out.push_back({word, reading});
 
-            std::cout << word + " " + reading << std::endl;
+            //   std::cout << word + " " + reading << std::endl;
         }
+    }
+}
+void genWordsN4Entries()
+{
+    Kanji kan;
+    kan.readFileJouyou("data/jouyou_v5.txt");
+    std::string fout = "out_n4_kanji_single.csv";
+    {
+        const char *filename = "data/n4_kanji_alphabet.txt";
+
+        kan.readFileEntries(filename);
+
+        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
+
+        std::vector<std::pair<std::string, std::string>> kanji_words;
+ 
+        kan.appendFile(fout, copy_entries);
     }
 }
 
@@ -56,7 +73,7 @@ void genWordsN4()
 {
     Kanji kan;
     kan.readFileJouyou("data/jouyou_v5.txt");
-    std::string fout = "out_n4_kanji_all.txt";
+    std::string fout = "out_n4_kanji_all.csv";
 
     {
         const char *filename = "data/n4_kanji_alphabet1-50.txt";
@@ -78,8 +95,6 @@ void genWordsN4()
         kan.writeFile(fout, copy_entries);
 
         kan.appendFile(fout, kanji_words);
-
-      
     }
     {
         const char *filename = "data/n4_kanji_alphabet51-100.txt";
@@ -101,8 +116,6 @@ void genWordsN4()
         kan.appendFile(fout, copy_entries);
 
         kan.appendFile(fout, kanji_words);
-
-     
     }
     {
         const char *filename = "data/n4_kanji_alphabet101-150.txt";
@@ -124,8 +137,6 @@ void genWordsN4()
         kan.appendFile(fout, copy_entries);
 
         kan.appendFile(fout, kanji_words);
-
-    
     }
     {
         const char *filename = "data/n4_kanji_alphabet151-200.txt";
@@ -147,8 +158,6 @@ void genWordsN4()
         kan.appendFile(fout, copy_entries);
 
         kan.appendFile(fout, kanji_words);
-
-       
     }
     {
         const char *filename = "data/n4_kanji_alphabet201-250.txt";
@@ -170,8 +179,6 @@ void genWordsN4()
         kan.appendFile(fout, copy_entries);
 
         kan.appendFile(fout, kanji_words);
-
-     
     }
     {
         const char *filename = "data/n4_kanji_alphabet251-end.txt";
@@ -193,8 +200,6 @@ void genWordsN4()
         kan.appendFile(fout, copy_entries);
 
         kan.appendFile(fout, kanji_words);
-
-  
     }
     {
         const char *filename = "data/n4_kanji_alphabet.txt";
@@ -214,8 +219,6 @@ void genWordsN4()
         generateWords(copy_entries, kanji_words, 4);
 
         kan.appendFile(fout, kanji_words);
-
-      
     }
 }
 int main(void)
@@ -223,5 +226,6 @@ int main(void)
 
     genWordsN4();
 
+    genWordsN4Entries();
     return 1;
 }
