@@ -64,8 +64,37 @@ void genWordsN4Entries()
         std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
 
         std::vector<std::pair<std::string, std::string>> kanji_words;
- 
+
         kan.appendFile(fout, copy_entries);
+    }
+}
+void genWordsN4Repeat()
+{
+    Kanji kan;
+    kan.readFileJouyou("data/jouyou_v5.txt");
+    kan.readFileRepeat("data/repeat_these.txt");
+
+    if (kan.repeats.size() == 0)
+    {
+        std::cout << "no repeats yet " << std::endl;
+        return;
+    };
+    std::string fout = "out_n4_repeat.csv";
+    {
+        const char *filename = "data/n4_kanji_alphabet.txt";
+
+        kan.readFileEntries(filename);
+
+        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
+
+        kan.filterRepeats(copy_entries);
+
+        std::vector<std::pair<std::string, std::string>> kanji_words;
+
+        generateWords(copy_entries, kanji_words);
+
+        kan.writeFile(fout, copy_entries);
+        kan.appendFile(fout, kanji_words);
     }
 }
 
@@ -227,5 +256,7 @@ int main(void)
     genWordsN4();
 
     genWordsN4Entries();
+
+    genWordsN4Repeat();
     return 1;
 }

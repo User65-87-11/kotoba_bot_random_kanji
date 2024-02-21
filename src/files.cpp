@@ -33,21 +33,42 @@ int Kanji::findPosByIdx(std::string str, int idx)
 
     return pos;
 }
+void Kanji::filterRepeats(std::vector<std::pair<std::string, std::string>> &new_words)
+{
+
+    std::vector<std::string> rep = this->repeats;
+
+    new_words.erase(std::remove_if(new_words.begin(), new_words.end(), [&rep](const std::pair<std::string, std::string> &pair)
+                                   {
+                                       bool found = false;
+
+                                       for (const auto &st : rep)
+                                       {
+                                           if (pair.first.substr(0, st.size()) == st)
+                                           {
+                                               found = true;
+                                               break;
+                                           }
+                                       }
+
+                                       return !found;
+                                   }),
+                    new_words.end());
+}
 void Kanji::appendFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words)
 {
+    std::cout << "appendFile: " + filename << std::endl;
     std::ofstream myfile;
     myfile.open(filename, std::ios_base::app);
 
     if (myfile.is_open())
     {
 
-        std::cout << "append: " + filename << std::endl;
-
         // myfile<< "Question,Answers,Comment,Instructions,Render as\n";
         for (const auto &pair : new_words)
         {
 
-            myfile << pair.first << "," << pair.second << "," << pair.first << " " <<this->meanings[pair.first]<<",,\n";
+            myfile << pair.first << "," << pair.second << "," << pair.first << " " << this->meanings[pair.first] << ",,\n";
         }
     }
     else
@@ -58,21 +79,18 @@ void Kanji::appendFile(std::string filename, std::vector<std::pair<std::string, 
 }
 void Kanji::writeFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words)
 {
-
+    std::cout << "writeFile: " + filename << std::endl;
     std::ofstream myfile;
     myfile.open(filename);
 
     if (myfile.is_open())
     {
 
-        std::cout << "write: " + filename << std::endl;
-
         myfile << "Question,Answers,Comment,Instructions,Render as\n";
         for (const auto &pair : new_words)
         {
 
-                 
-            myfile << pair.first << "," << pair.second << "," << pair.first << " " <<this->meanings[pair.first]<<",,\n";
+            myfile << pair.first << "," << pair.second << "," << pair.first << " " << this->meanings[pair.first] << ",,\n";
         }
     }
     else
@@ -87,13 +105,14 @@ void Kanji::readFileJouyou(std::string filename)
 {
 
     // std::stringstream ss;
+    std::cout << "readFileJouyou: " + filename << std::endl;
     this->meanings.clear();
     std::fstream file;
     file.open(filename);
+
     if (file.is_open())
     {
 
-        std::cout << "reading: " + filename << std::endl;
         //  ss << file.rdbuf();
 
         // printDebug(ss.str());
@@ -117,7 +136,7 @@ void Kanji::readFileJouyou(std::string filename)
 
                 // lines.push_back({kanji,hiragana});
                 this->meanings[kanji] = meaning;
-               // std::cout << this->meanings[kanji]  << std::endl;
+                // std::cout << this->meanings[kanji]  << std::endl;
                 // entry.push_back({kanji,hiragana});
             }
         }
@@ -128,10 +147,41 @@ void Kanji::readFileJouyou(std::string filename)
         std::cout << "cant open: " + filename << std::endl;
     }
 }
+void Kanji::readFileRepeat(std::string filename)
+{
+    std::cout << "readFileRepeat: " + filename << std::endl;
 
+    this->repeats.clear();
+    std::stringstream ss;
+    std::fstream file;
+    file.open(filename);
+    if (file.is_open())
+    {
+
+        ss << file.rdbuf();
+
+        // printDebug(ss.str());
+        std::string line;
+
+        while (ss >> line)
+        {
+
+            if (line.length() > 2)
+            {
+
+                this->repeats.push_back(line);
+            }
+        }
+    }
+    else
+    {
+
+        std::cout << "cant open: " + filename << std::endl;
+    }
+}
 void Kanji::readFileEntries(std::string filename)
 {
-
+    std::cout << "readFileEntries: " + filename << std::endl;
     this->entries.clear();
     std::stringstream ss;
     std::fstream file;
@@ -139,7 +189,6 @@ void Kanji::readFileEntries(std::string filename)
     if (file.is_open())
     {
 
-        std::cout << "reading: " + filename << std::endl;
         ss << file.rdbuf();
 
         // printDebug(ss.str());
@@ -166,6 +215,6 @@ void Kanji::readFileEntries(std::string filename)
     else
     {
 
-        std::cout << "cant open: " + filename << std::endl;
+        std::cout << "cant open : " + filename << std::endl;
     }
 }
