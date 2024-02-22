@@ -40,19 +40,18 @@ void Kanji::filterRepeats(std::vector<std::pair<std::string, std::string>> &new_
 
     new_words.erase(std::remove_if(new_words.begin(), new_words.end(), [&rep](const std::pair<std::string, std::string> &pair)
                                    {
-                                       bool found = false;
-
                                        for (const auto &st : rep)
                                        {
                                            if (pair.first.substr(0, st.size()) == st)
                                            {
-                                               found = true;
-                                               break;
+                                                return false;
+                                               
                                            }
                                        }
 
-                                       return !found;
-                                   }),
+                                       return true; 
+                                       
+                                    }),
                     new_words.end());
 }
 void Kanji::appendFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words)
@@ -67,7 +66,7 @@ void Kanji::appendFile(std::string filename, std::vector<std::pair<std::string, 
         // myfile<< "Question,Answers,Comment,Instructions,Render as\n";
         for (const auto &pair : new_words)
         {
-
+           // std::cout << " pair: " << pair.first << " " << pair.second <<std::endl;
             myfile << pair.first << "," << pair.second << "," << pair.first << " " << this->meanings[pair.first] << ",,\n";
         }
     }
@@ -77,9 +76,9 @@ void Kanji::appendFile(std::string filename, std::vector<std::pair<std::string, 
         std::cout << "cant append: " + filename << std::endl;
     }
 }
-void Kanji::writeFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words)
+void Kanji::writeFileHeader(std::string filename)
 {
-    std::cout << "writeFile: " + filename << std::endl;
+    std::cout << "writeFileHeader: " + filename << std::endl;
     std::ofstream myfile;
     myfile.open(filename);
 
@@ -87,11 +86,7 @@ void Kanji::writeFile(std::string filename, std::vector<std::pair<std::string, s
     {
 
         myfile << "Question,Answers,Comment,Instructions,Render as\n";
-        for (const auto &pair : new_words)
-        {
-
-            myfile << pair.first << "," << pair.second << "," << pair.first << " " << this->meanings[pair.first] << ",,\n";
-        }
+        
     }
     else
     {
@@ -166,6 +161,7 @@ void Kanji::readFileRepeat(std::string filename)
         while (ss >> line)
         {
 
+
             if (line.length() > 2)
             {
 
@@ -191,19 +187,21 @@ void Kanji::readFileEntries(std::string filename)
 
         ss << file.rdbuf();
 
-        // printDebug(ss.str());
+    
         std::string line;
-        int num = 0;
+       
         while (ss >> line)
         {
-            num++;
+           
+          
+
             if (line.length() > 2)
             {
                 std::string delimiter = "、";
                 std::string kanji = line.substr(0, line.find(delimiter));
                 std::string hiragana = line.substr(line.find(delimiter) + delimiter.length(), line.length());
 
-                //  std::cout << num << ": " << kanji << " ---- "<<hiragana << std::endl;
+                  std::cout << ": " << kanji << " ---- "<<hiragana << std::endl;
 
                 // lines.push_back({kanji,hiragana});
                 // entry[kanji]=hiragana;
@@ -217,4 +215,7 @@ void Kanji::readFileEntries(std::string filename)
 
         std::cout << "cant open : " + filename << std::endl;
     }
+
+     std::cout << "total entries: " << this->entries.size() << std::endl;
+    
 }

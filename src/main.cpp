@@ -47,7 +47,7 @@ void generateWords(
             onyomi.str("");
             out.push_back({word, reading});
 
-            //   std::cout << word + " " + reading << std::endl;
+            //  std::cout << word + " " + reading << std::endl;
         }
     }
 }
@@ -56,10 +56,12 @@ void genWordsN4Entries()
     Kanji kan;
     kan.readFileJouyou("data/jouyou_v5.txt");
     std::string fout = "out_n4_kanji_single.csv";
-    {
-        const char *filename = "data/n4_kanji_alphabet.txt";
 
-        kan.readFileEntries(filename);
+    const char *filename = "data/n4_kanji_alphabet.txt";
+    kan.writeFileHeader(fout);
+    kan.readFileEntries(filename);
+
+    {
 
         std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
 
@@ -80,6 +82,8 @@ void genWordsN4Repeat()
         return;
     };
     std::string fout = "out_n4_repeat.csv";
+
+     kan.writeFileHeader(fout);
     {
         const char *filename = "data/n4_kanji_alphabet.txt";
 
@@ -93,7 +97,7 @@ void genWordsN4Repeat()
 
         generateWords(copy_entries, kanji_words);
 
-        kan.writeFile(fout, copy_entries);
+        kan.appendFile(fout, copy_entries);
         kan.appendFile(fout, kanji_words);
     }
 }
@@ -103,152 +107,40 @@ void genWordsN4()
     Kanji kan;
     kan.readFileJouyou("data/jouyou_v5.txt");
     std::string fout = "out_n4_kanji_all.csv";
+    const char *filename = "data/n4_kanji_alphabet.txt";
+    kan.readFileEntries(filename);
 
+    kan.writeFileHeader(fout);
+
+    for (int i = 0; i < kan.entries.size(); i += 50)
     {
-        const char *filename = "data/n4_kanji_alphabet1-50.txt";
+        {
+            int right_margin = i + 50;
+            if (right_margin > kan.entries.size())
+            {
+                right_margin = kan.entries.size();
+            }
 
-        kan.readFileEntries(filename);
+            std::vector<std::pair<std::string, std::string>> copy_entries;
 
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
+            std::copy(kan.entries.begin() + i, kan.entries.begin() + right_margin, std::back_inserter(copy_entries));
 
-        std::vector<std::pair<std::string, std::string>> kanji_words;
+            std::vector<std::pair<std::string, std::string>> kanji_words;
 
-        randomizeEntries(copy_entries);
+            randomizeEntries(copy_entries);
 
-        generateWords(copy_entries, kanji_words);
+            generateWords(copy_entries, kanji_words);
 
-        randomizeEntries(copy_entries);
+            randomizeEntries(copy_entries);
 
-        generateWords(copy_entries, kanji_words, 4);
+            generateWords(copy_entries, kanji_words, 4);
 
-        kan.writeFile(fout, copy_entries);
+            kan.appendFile(fout, copy_entries);
 
-        kan.appendFile(fout, kanji_words);
+            kan.appendFile(fout, kanji_words);
+        }
     }
-    {
-        const char *filename = "data/n4_kanji_alphabet51-100.txt";
-
-        kan.readFileEntries(filename);
-
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
-
-        std::vector<std::pair<std::string, std::string>> kanji_words;
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words);
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words, 4);
-
-        kan.appendFile(fout, copy_entries);
-
-        kan.appendFile(fout, kanji_words);
-    }
-    {
-        const char *filename = "data/n4_kanji_alphabet101-150.txt";
-
-        kan.readFileEntries(filename);
-
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
-
-        std::vector<std::pair<std::string, std::string>> kanji_words;
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words);
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words, 4);
-
-        kan.appendFile(fout, copy_entries);
-
-        kan.appendFile(fout, kanji_words);
-    }
-    {
-        const char *filename = "data/n4_kanji_alphabet151-200.txt";
-
-        kan.readFileEntries(filename);
-
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
-
-        std::vector<std::pair<std::string, std::string>> kanji_words;
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words);
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words, 4);
-
-        kan.appendFile(fout, copy_entries);
-
-        kan.appendFile(fout, kanji_words);
-    }
-    {
-        const char *filename = "data/n4_kanji_alphabet201-250.txt";
-
-        kan.readFileEntries(filename);
-
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
-
-        std::vector<std::pair<std::string, std::string>> kanji_words;
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words);
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words, 4);
-
-        kan.appendFile(fout, copy_entries);
-
-        kan.appendFile(fout, kanji_words);
-    }
-    {
-        const char *filename = "data/n4_kanji_alphabet251-end.txt";
-
-        kan.readFileEntries(filename);
-
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
-
-        std::vector<std::pair<std::string, std::string>> kanji_words;
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words);
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words, 4);
-
-        kan.appendFile(fout, copy_entries);
-
-        kan.appendFile(fout, kanji_words);
-    }
-    {
-        const char *filename = "data/n4_kanji_alphabet.txt";
-
-        kan.readFileEntries(filename);
-
-        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
-
-        std::vector<std::pair<std::string, std::string>> kanji_words;
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words);
-
-        randomizeEntries(copy_entries);
-
-        generateWords(copy_entries, kanji_words, 4);
-
-        kan.appendFile(fout, kanji_words);
-    }
+    
 }
 int main(void)
 {

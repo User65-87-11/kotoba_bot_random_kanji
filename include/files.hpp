@@ -16,7 +16,7 @@ public:
 
     void appendFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words);
 
-    void writeFile(std::string filename, std::vector<std::pair<std::string, std::string>> &new_words);
+    void writeFileHeader(std::string filename);
 
     void readFileRepeat(std::string filename);
     
