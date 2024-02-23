@@ -201,7 +201,7 @@ void Kanji::readFileEntries(std::string filename)
                 std::string kanji = line.substr(0, line.find(delimiter));
                 std::string hiragana = line.substr(line.find(delimiter) + delimiter.length(), line.length());
 
-                  std::cout << ": " << kanji << " ---- "<<hiragana << std::endl;
+                //  std::cout << ": " << kanji << " ---- "<<hiragana << std::endl;
 
                 // lines.push_back({kanji,hiragana});
                 // entry[kanji]=hiragana;
