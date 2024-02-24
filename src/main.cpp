@@ -51,6 +51,7 @@ void generateWords(
         }
     }
 }
+
 void genWordsN4Entries()
 {
     Kanji kan;
@@ -70,6 +71,39 @@ void genWordsN4Entries()
         kan.appendFile(fout, copy_entries);
     }
 }
+void genWordsN4Meanings()
+{
+    Kanji kan;
+    kan.readFileJouyou("data/jouyou_v5.txt");
+
+    std::string fout = "out_n4_meanings.csv";
+
+    kan.writeFileHeader(fout);
+    {
+        const char *filename = "data/n4_kanji_alphabet.txt";
+
+        kan.readFileEntries(filename);
+
+        std::vector<std::pair<std::string, std::string>> copy_entries(kan.entries);
+
+        randomizeEntries(copy_entries);
+
+        for (auto &entry : copy_entries)
+        {
+            entry.second = kan.meanings[entry.first];
+        }
+
+        copy_entries.erase(std::remove_if(copy_entries.begin(), copy_entries.end(),
+                                          [](const std::pair<std::string, std::string> &entry)
+                                          {
+                                              return entry.second.empty();
+                                          }),
+                           copy_entries.end());
+
+        kan.appendFile(fout, copy_entries);
+    }
+}
+ 
 void genWordsN4Repeat()
 {
     Kanji kan;
@@ -83,7 +117,7 @@ void genWordsN4Repeat()
     };
     std::string fout = "out_n4_repeat.csv";
 
-     kan.writeFileHeader(fout);
+    kan.writeFileHeader(fout);
     {
         const char *filename = "data/n4_kanji_alphabet.txt";
 
@@ -140,7 +174,6 @@ void genWordsN4()
             kan.appendFile(fout, kanji_words);
         }
     }
-    
 }
 int main(void)
 {
@@ -150,5 +183,7 @@ int main(void)
     genWordsN4Entries();
 
     genWordsN4Repeat();
+
+    genWordsN4Meanings();
     return 1;
 }

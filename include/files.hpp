@@ -4,6 +4,8 @@
 #include <string>
 #include <map>
 
+
+ 
 class Kanji
 {
 public:
@@ -22,6 +24,8 @@ public:
     
     void filterRepeats(std::vector<std::pair<std::string, std::string>> &new_words);
 
+
+
 private:
     static int findPosByIdx(std::string str, int idx);
 
@@ -33,5 +37,7 @@ public:
     std::map<std::string, std::string> meanings;
     std::vector<std::pair<std::string, std::string>> entries;
     std::vector<std::string> repeats;
-   
+
+    
+    
 };
