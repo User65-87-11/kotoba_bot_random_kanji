@@ -1,0 +1,179 @@
+木、もく
+金、きん
+三、みつ
+語、ご
+二、に
+子、こ
+月、げつ
+土、ど
+週、しゅう
+気、き
+時、じ
+電、でん
+会、かい
+*会社,かいしゃ,company, corporation
+映、えい
+*映画,えいが,movie
+画、が
+*映画,えいが,movie
+校、こう
+*学校,がっこう,School
+生、せい
+*学生,がくせい,Student
+*先生,せんせい,teacher
+*生徒,せいと,pupil
+四、よん
+*四日,よっか,fouth day of the month
+*四分,よんぷん,four minutes
+水、すい
+*水曜日,すいようび,Wednesday
+言、こと
+*言葉,ことば,language
+事、し
+*仕事,しごと,work
+火、か
+*火曜日,かようび,Tuesday
+一、いち
+*一日,ついたち, first of the month
+*一月,いちがつ,January
+*一人,ひとり,one person
+*一分,いっぷん,one minute
+の
+*男の子,おとこのこ,Boy
+*女の子,おんなのこ,Girl
+*九日,ここのか,nine days
+*七日,なのか, the seventh day
+分、ぶん
+*一分,いっぷん,one minute
+*二分,にふん,two minutes
+*三分,さんぷん,three minutes
+*四分,よんぷん,four minutes
+*五分,ごふん,five minutes
+*六分,ろっぷん,six minutes
+*七分,ななふん,seven minutes
+*八分,はっぷん,eight minutes
+*九分,きゅうふん,nine minutes人
+*大人,おとな,Adult
+*外国人,がいこくじん,Foreigner
+*一人,ひとり,one person
+*二人,ふたり,two people
+社、しゃ
+*会社,かいしゃ,company, corporation
+徒、と
+*生徒,せいと,pupil
+屋、おく
+*部屋,へや,room
+元、げん
+*元気,げんき,lively
+男
+*男の子,おとこのこ,Boy
+八、はち
+*八円,はちえん,eight yen
+*八日,ようか,eighth day of the month
+*八分,はっぷん,eight minutes
+葉、は
+*言葉,ことば,language
+五、ご
+*五日,いつか,fifth day of the month
+*五分,ごふん,five minutes
+十、じゅう
+*十日,とおか,the tenth day
+*二十日,はつか,twentieth
+九、きゅう
+*九日,ここのか,nine days
+*九分,きゅうふん,nine minutes毎
+*毎日,まいにち,every day
+来、らい
+*来月,らいげつ,next month
+*来年,らいねん,next year
+友、とも
+*友達,ともだち,friend
+名、な
+*名前,なまえ,name
+国、こく
+*外国,がいこく,foreign country
+*外国人,がいこくじん,Foreigner
+大、だい
+*大人,おとな,Adult
+*大学,だいがく,university
+女、じょ
+*女の子,おんなのこ,Girl
+年、とし
+*今年,ことし,this year
+*来年,らいねん,next year
+六、ろく
+*六日,むいか,sixth day of the month
+*六分,ろっぷん,six minutes
+午、ご
+*午後,ごご,afternoon
+*午前,ごぜん,morning
+外、がい
+*外国,がいこく,foreign country
+*外国人,がいこくじん,Foreigner
+車、でん
+*電車,でんしゃ,electric train
+部、ぶん
+*部屋,へや,room
+今、こん
+*今日,きょう,Today
+*今年,ことし,this year
+*今月,こんげつ,this month
+*今週,こんしゅう,this week
+仕、し
+*仕事,しごと,work
+間、じ
+*時間,じかん,Time
+英、えい
+*英語,えいご,English (language)
+学、がく
+*学生,がくせい,Student
+*学校,がっこう,School
+*大学,だいがく,university
+天、てん
+*天気,てんき,weather
+先、せん
+*先月,せんげつ,last month
+*先生,せんせい,teacher
+達、たち
+*友達,ともだち,friend
+後、ご
+*午後,ごご,afternoon
+前、ぜん
+*午前,ごぜん,morning
+*名前,なまえ,name
+曜、よう
+*土曜日,どようび,Saturday
+*金曜日,きんようび,Friday
+*日曜日,にちようび,Sunday
+*月曜日,げつようび,Monday
+*木曜日,もくようび,Thursday
+*水曜日,すいようび,Wednesday
+*火曜日,かようび,Tuesday
+話、わ
+*電話,でんわ,telephone
+日、にち
+*一日,ついたち, first of the month
+*五日,いつか,fifth day of the month
+*今日,きょう,Today
+*九日,ここのか,nine days
+*十日,とおか,the tenth day
+*七日,なのか, the seventh day
+*二十日,はつか,twentieth
+*二日,ふつか,second day of the month
+*毎日,まいにち,every day
+*三日,みっか,third day of the month
+*六日,むいか,sixth day of the month
+*八日,ようか,eighth day of the month
+*四日,よっか,fouth day of the month
+*土曜日,どようび,Saturday
+*金曜日,きんようび,Friday
+*日曜日,にちようび,Sunday
+*月曜日,げつようび,Monday
+*木曜日,もくようび,Thursday
+*水曜日,すいようび,Wednesday
+*火曜日,かようび,Tuesday
+円、えん
+*八円,はちえん,eight yen
+七、なな
+*七日,なのか, the seventh day
+*七分,ななふん,seven minutes

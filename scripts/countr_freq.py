@@ -25,12 +25,24 @@ for line in file1_lines:
                 entry_count_map[k] = 1
         
 #print(entry_count_map)
+entry_above={}
 cnt=0
 with open('freq2more.txt', 'w',encoding='utf-8') as f:
     for entry, count in entry_count_map.items():
         if count > 1:
             cnt+=1
             f.write(entry + '\n')
+            entry_above[entry] = count
+
+print("Above 1:",len(entry_above))     
+     
+with open('jouyou_a1.txt', 'w',encoding='utf-8') as ff:
+    for entry, count in entry_above.items():
+        for line in file1_lines:
+            parts1 = line.split(',')
+            k=parts1[1]
+            if entry == k:
+                 
+                ff.write(line )
             
 
-print("Above 1:",cnt)
