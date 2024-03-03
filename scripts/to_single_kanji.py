@@ -1,4 +1,3 @@
-from collections import OrderedDict
 import sys
 
 input_file = sys.argv[1]
