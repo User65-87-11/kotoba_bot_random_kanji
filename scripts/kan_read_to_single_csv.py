@@ -1,5 +1,7 @@
 import sys
 
+#kanji,reading type of file to csv
+
 input_file = sys.argv[1]
 output_file = sys.argv[2]
 

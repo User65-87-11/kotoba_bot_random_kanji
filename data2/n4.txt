@@ -322,7 +322,7 @@
 勝つ,かつ,to win
 包む,つつむ、くるむ,to wrap up
 十分,じゅうぶん,enough
-卒業,そつぎょう,completion (e.g. of a course)
+卒業,そつぎょう,completion (of a course)
 危険,きけん,danger
 受ける,うける,to receive
 湖,みずうみ,lake
@@ -388,4 +388,3 @@
 文化,ぶんか,culture
 机,つくえ,desk
 日記,にっき,diary
-
