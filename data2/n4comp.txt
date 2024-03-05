@@ -38,7 +38,7 @@
 時代,じだい,era
 下着,したぎ,underwear
 品物,しなもの,goods
-社会,しゃかい,society, public
+社会,しゃかい,society
 社長,しゃちょう,company president
 出発,しゅっぱつ,to depart
 小学校,しょうがっこう,elementary school
@@ -123,7 +123,6 @@
 毎朝,まいあさ,every morning
 毎週,まいしゅう,every week
 紹介,しょうかい,presentation
-一度,いちど,once
 約束,やくそく,promise
 問題,もんだい,problem
 簡単,かんたん,simple

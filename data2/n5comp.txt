@@ -54,7 +54,7 @@
 火曜日,かようび,Tuesday
 生徒,せいと,pupil
 今週,こんしゅう,this week
-会社,かいしゃ,company, corporation
+会社,かいしゃ,company
 一分,いっぷん,one minute
 二分,にふん,two minutes
 三分,さんぷん,three minutes
