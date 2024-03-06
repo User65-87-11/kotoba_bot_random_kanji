@@ -37,7 +37,7 @@ with open(output_file, "w",encoding='utf-8') as file:
     sub_arrays = [words_1[i:i+50] for i in range(0, len(words_1), 50)]
 
     for sub in sub_arrays:
-        l1 = lambda v: file.write(v+","+joumap[v][8]+","+v+","+joumap[v][7]+",\n")
+        l1 = lambda v: file.write(v+",\""+joumap[v][8]+","+joumap[v][7]+"\","+v+",,\n")
         list(map(l1,sub))
         combined = [sub[i:i+4] for i in range(0, len(sub), 4)]
         for com in combined:
@@ -47,23 +47,18 @@ with open(output_file, "w",encoding='utf-8') as file:
             list(map(l2,com))
             file.write(","+s1+",,\n")
 
-    random.shuffle(words_1)
-    sub_arrays = [words_1[i:i+50] for i in range(0, len(words_1), 50)]
+    # random.shuffle(words_1)
+    # sub_arrays = [words_1[i:i+50] for i in range(0, len(words_1), 50)]
 
-    for sub in sub_arrays:
-        #l1 = lambda v: file.write(v+","+readings[v]+","+v+",,\n")
-        #list(map(l1,sub))
-        combined = [sub[i:i+4] for i in range(0, len(sub), 4)]
-        for com in combined:
-            s1="".join(com)
-            file.write(s1+",")
-            l2 = lambda v: file.write(joumap[v][8])
-            list(map(l2,com))
-            file.write(","+s1+",,\n")
+    # for sub in sub_arrays:
+    #     #l1 = lambda v: file.write(v+","+readings[v]+","+v+",,\n")
+    #     #list(map(l1,sub))
+    #     combined = [sub[i:i+4] for i in range(0, len(sub), 4)]
+    #     for com in combined:
+    #         s1="".join(com)
+    #         file.write(s1+",")
+    #         l2 = lambda v: file.write(joumap[v][8])
+    #         list(map(l2,com))
+    #         file.write(","+s1+",,\n")
 
-# combined = [words_1[i:i+4] for i in range(0, len(words_1), 4)]
-
-# print(readings)
-
-# print(combined)
-
+ 

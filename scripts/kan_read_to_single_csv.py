@@ -23,4 +23,4 @@ with open(output_file, "w",encoding='utf-8') as f_out:
     for line in lines:
         line=line.rstrip("\n")
         
-        f_out.write(line+","+joumap[line][8]+","+line.split(",")[0]+","+joumap[line][7]+",\n")
+        f_out.write(line+",\""+joumap[line][8]+","+joumap[line][7]+"\","+line.split(",")[0]+",,\n")
