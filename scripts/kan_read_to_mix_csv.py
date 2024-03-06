@@ -10,7 +10,7 @@ with open(input_file, 'r', encoding='utf-8') as f_in:
     kompounds = f_in.readlines()
 
 
-with open(".\\data\\jouyou.txt", 'r', encoding='utf-8') as f_in:
+with open(".\\data\\jouyou.csv", 'r', encoding='utf-8') as f_in:
     jouyou = f_in.readlines()
 
 joumap={}
@@ -19,14 +19,12 @@ for l in jouyou:
     parts=l.split(",")
     joumap[parts[1]]=parts
 
-readings={}
+ 
 
 words_1=[]
 for line in kompounds:
     line=line.rstrip("\n");
-    items=line.split(",")
-    readings[items[0]]=items[1]
-    words_1.append(items[0])
+    words_1.append(line)
 
 
 
