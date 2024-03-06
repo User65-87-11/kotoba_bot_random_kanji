@@ -1,0 +1,4 @@
+1.find all compound kanji in JLPT by level
+2.break them into single kanji
+3.generate kanji mixes based on single kanjis
+4.repeat readings
