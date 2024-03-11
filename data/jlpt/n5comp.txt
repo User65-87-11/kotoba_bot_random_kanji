@@ -1,4 +1,4 @@
-一日,ついたち, first of the month
+一日,ついたち,first of the month
 五日,いつか,fifth day of the month
 男の子,おとこのこ,Boy
 大人,おとな,Adult

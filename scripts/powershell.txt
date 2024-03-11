@@ -1,0 +1,1 @@
+select-string -path .\kotoba_csv\out_n4_mix.csv -pattern "^.*?,"|   ForEach-Object { $_.Matches.Value }

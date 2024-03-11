@@ -1,0 +1,126 @@
+野菜,やさい,vegetable
+郵便局,ゆうびんきょく,post office
+安心,あんしん,relief
+以下,いか,less than
+以外,いがい,with the exception of
+医学,いがく,medical science
+意見,いけん,opinion
+以上,いじょう,more than
+一度,いちど,once
+運転,うんてん,to drive
+運転手,うんてんしゅ,driver
+運動,うんどう,to exercise
+屋上,おくじょう,rooftop
+会場,かいじょう,assembly hall
+会話,かいわ,conversation
+火事,かじ,fire
+急行,きゅうこう,express
+教会,きょうかい,church
+空気,くうき, atmosphere
+研究,けんきゅう,research
+研究室,けんきゅうしつ, laboratory
+見物,けんぶつ,sightseeing
+工業,こうぎょう,the manufacturing industry
+高校,こうこう,high school
+高校生,こうこうせい,high school student
+校長,こうちょう,headmaster
+今度,こんど,next time
+今夜,こんや,tonight
+仕方,しかた,method
+試験,しけん,examination
+時代,じだい,era
+社会,しゃかい,society
+社長,しゃちょう,company president
+小学校,しょうがっこう,elementary school
+食事,しょくじ,a meal
+食料品,しょくりょうひん,groceries
+人口,じんこう,population
+親切,しんせつ,kindness
+新聞社,しんぶんしゃ,newspaper company
+水道,すいどう,water supply
+西洋,せいよう,western countries
+世界,せかい,the world
+大学生,だいがくせい,university student
+大事,だいじ,important
+台風,たいふう,typhoon
+注意,ちゅうい,caution
+中学校,ちゅうがっこう,junior high school
+地理,ちり,geography
+店員,てんいん,shop assistant
+特別,とくべつ,special
+入学,にゅうがく,to enter school or university
+発音,はつおん,pronunciation
+文学,ぶんがく,literature
+用意,ようい,preparation
+用事,ようじ,things to do
+旅館,りょかん,Japanese hotel
+医者,いしゃ,medical doctor
+飛行場,ひこうじょう,airport
+意味,いみ,meaning
+部長,ぶちょう,head of a section
+映画館,えいがかん,cinema
+連絡,れんらく,to contact
+音楽,おんがく,music
+会社,かいしゃ,company
+趣味,しゅみ,hobby
+家族,かぞく,family
+漢字,かんじ,Chinese character
+牛肉,ぎゅうにく,Beef
+教室,きょうしつ,Classroom
+兄弟,きょうだい,(humble) siblings
+去年,きょねん,last year
+銀行,ぎんこう,bank
+課長,かちょう,section manager
+説明,せつめい,explanation
+今週,こんしゅう,this week
+作文,さくぶん,written composition
+試合,しあい,match game
+質問,しつもん,question
+自転車,じてんしゃ,bicycle
+自動車,じどうしゃ,automobile
+写真,しゃしん,photograph
+食堂,しょくどう,dining hall
+新聞,しんぶん,newspaper
+先週,せんしゅう,last week
+大使館,たいしかん,embassy
+大切,たいせつ,important
+地図,ちず,map
+動物,どうぶつ,animal
+図書館,としょかん,library
+興味,きょうみ,interest in something
+病院,びょういん,hospital
+病気,びょうき,illness
+勉強,べんきょう,to study
+毎週,まいしゅう,every week
+紹介,しょうかい,presentation
+約束,やくそく,promise
+問題,もんだい,problem
+簡単,かんたん,simple
+夕方,ゆうがた,evening
+夕飯,ゆうはん,dinner
+有名,ゆうめい,famous
+洋服,ようふく,western-style clothes
+来週,らいしゅう,next week
+料理,りょうり,cuisine
+旅行,りょこう,travel
+事故,じこ,accident
+交通,こうつう,traffic
+生活,せいかつ,living activity
+漫画,まんが,comic
+具合,ぐあい,condition
+動物園,どうぶつえん,zoo
+十分,じゅうぶん,enough
+卒業,そつぎょう,completion (e.g. of a course)
+危険,きけん,danger
+普通,ふつう,ordinary
+地震,じしん,earthquake
+場所,ばしょ,place
+安全,あんぜん,safety
+将来,しょうらい,future (usually near)
+小説,しょうせつ,short story
+気分,きぶん,feeling; mood
+復習,ふくしゅう,review
+故障,こしょう,breakdown
+歴史,れきし,history
+数学,すうがく,mathematics
+文化,ぶんか,culture
