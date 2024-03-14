@@ -11,13 +11,14 @@
 二つ,ふたつ,cnt. any obj
 三台,さんだい,cnt. machines(cars)
 四人,よんにん,cnt. people
+六回,ろっかい,cnt. times
 五冊,ごさつ,cnt. volumes(book)
 六杯,ろくはい,cnt. cup/bowls
 七個,ななこ,cnt. small obj(apple)
 八匹,はちびき,cnt. small anim
 九枚,きゅうまい,cnt. sheets of paper
 十台目車,じゅうだいめくるま,cnt. ordinal 
-三か月,さんかげつ,period of 3 month
+六か月,ろっかげつ,period of 6 month
 学生証,がくせいしょう,student ID card
 忙しい,いそがしい,busy
 店舗,てんぽ,store
@@ -35,3 +36,6 @@
 因みに,ちなみに,by the way
 二回目,にかいめ,second time
 使う,つかう,to use
+繰り替える,くりかえる,to exchange(re+)
+繰り返す,くりかえす,to repeat(re+)
+
