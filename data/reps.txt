@@ -1,110 +1,55 @@
 目標    ?
 承諾    ?
 発言    ?
-共感    ?emotion
-挙げる  ?to rise
+共感    ?
+挙げる  ?
 副詞    ?
 丁寧体  ?
-所在    ?location
+所在    ?
 授ける  ?
 既設    ?
 副作用  ?
 併用    ?
-頻度    ?acceleration
+頻度    ?
 括る    ?
-状況    ?condition
-継続    ?continuation
+状況    ?
+継続    ?
 比較    ?
-面積    ?area
-一般的  typical
-与える  to give
-両者    both peeps
-主題    topic
-互いに  mutula
-住まい  dwelling
-入れ替える  replace
-共に    together
-動かす  to moves tr 
-動作    movement
+面積    ?
 勧める  ?
-参照    reference
-同様に  identical
-否定    negalection
-地域    area
-場面    scene
-学習    learning
-完了    completion
-実情    real condition
-実際    situation
-尊重    respect
-尋ねる  to tell
-導入    introduction
-居間    living room
-年賀状  new year card
-応答    response
 意向    ?
-感想    impression
-慣れる  to get used to
-手段    means
-指の独立    finger indep
-指導    guidance
-指示    pointing out
-挨拶    greetings
-授受    give and receive
 接続    ?
-揃える  to arrange
-提出    presentation
-揶揄う  to tease
-教材    learning mater
-敬語    polite
-断る    to refuse
-新出語  first time words
-歓談    peasant talk
-母国語  country langauge
-求める  to wish for
-渡す    to hand over
-用いる  to use
-用法    use rules
-目的語  object
 相当    ?
-確認    confirmation
-示す    to show
-組織    to organize
-絵教材  picture learnin mats
-練習の際    practice
-繋がり  connection
-肯定    affirmation
-行き先  destination
-行為    deed
-解説    explanation
-訪問    visit
-訪問先  visit target
-設定    premade
-評価    evaluation
-誘う    invite
-誤解    misinterp
 辞する  ?
-逆      in reverse
-過去    prev time
-静か    quet
-順番    turn
-文章    sentense
-関係    relation
-自宅    own house
-距離    distance
-商品    goods
-感謝    gratitude
-迎える  to go out to meet
-散歩    a walk
-移動    movements
-通過    passing throuhg
-話し手  talker
-聞き手  lister
-第三者  3rd party
-止める  to stop tr
-既習    prev learned
-欄      chapter
-以降    from now one
-収録    ?recording
-整理    soring
-留意点  point of attention
+収録    ?
+漠然    ?
+型      ?
+手助け  ?
+従い    ?
+求める  ?
+促す    ?
+状態    ?
+少額    ?
+近況報告    ?
+歯科医院    ?
+撮影    ?
+繰り返し  ?
+反応    ?
+所持    ?
+業務    ?
+可      ?
+利用    ?
+想定    ?
+独身    ?
+疑問    ?
+沿う    ?
+従属節  ?
+前提    ?
+特徴    ?
+架空    ?
+規則    ?
+症状    ?
+配慮    ?
+公共    ?
+区切る  ?
+患者    ?
