@@ -1,79 +1,55 @@
-一連,いちれん,sequence
-上記,じょうき,above-mentioned
-主体,しゅたい,subject
-代入,だいにゅう,assignment
-併せて,あわせて,in addition(=合う)
-併用,へいよう,combined use(join+use)
-促す,うながす,to encourage(tr)
-公共,こうきょう,Public
-共感,きょうか,empathy(both+emo)
-切れ目のない,きれめのない,seamless
-前件,ぜんけん,previous case(cnt cases)
-前提,えんてい,assumption
-副作用,ふくさよう,Adverse effects(dup+make)
-単位,たんい,unit(simple+rank)
-収録,しゅうろく,recording(audio)
-可,か,acceptable
-名称,めいしょう,name(title)
-吟味,ぎんみ,careful investigation(verify)
-含める,ふくめる,to include
-嗜好,いこう,preferences(like+like)
-定着,ていちゃく,fixation
-実情,じつじょう,real condition
-客観的,きゃっかんてき,objective(unbiased)
-対象,たいしょう,target(opposit+elephant)
-幅,はば,range(in range of 3 hours)
-従い,したがい,in accordance with
-従属節,じゅうぞくせつ,subordination clause(lesser+genus+joint)
-患者,かんじゃ,patient
-想定,そうてい,expectation(idea+determine)
-感想,かんそう,impression
-所在,しょざい,location
-所属,しょぞく,belonging to(place+belong)
-所有,しょゆう,possessions
-手帳,てちょう,memo pad(hand+notebook)
-扱う,あつかう,to deal with
-括る,くくる,to tie together
-授ける,さずける,to give
-接続,せつぞく,connection
-揃える,そろえる,to arrange
-描写,びょうしゃ,depiction(draw+copy)
-提出,ていしゅつ,presentation
-提示,ていじ,presentation
-整理,せいり,arrangement(sorting)
-期限,きげん,period limit
-業務,ぎょうむ,business(business+task)
-標準語,ひょうじゅんご,standard lang(mark+conform)
-比較,ひかく,comparison(compare+compare)
-気味,きみ,feeling(tendency)
-気遣い,きづかい,worry
-添える,そえる,to accompany(with)
-演じる,えんじる,to play(a role)
-演説,えんぜつ,public speech
-漠然,ばくぜん,ambiguous(vague+thing)
-無縁,むえん,unrelated(non-affinity)
-状態,じょうたい,state(condition+condition)
-状況,じょうきょう,situation(condit+condit) 
-留意,りゅうい,paying attention(stationary point+idea)
-疑問,ぎもん,question(question+question)
-病状,びょうじょう,patien's condition
-症状,しょうじょう,symptoms
-発展,はってん,development(depart+unfold)
-発話,はつわ,speech
 目標,もくひょう,goal(eye+mark)
-相席,あいせき,sharing a table with someone
-硬い,かたい,solid
-硬貨,こうか,coin(hard+goods)
-結論,けつろん,conclusion(tie+argument)
+承諾,しょうだく,acceptance(hear+consent)
+発言,はつげん,statement
+共感,きょうか,empathy(both+emo)
+挙げる,あげる,to rise (tr)
+副詞,ふくし,Adverb(dup+word)
+丁寧体,ていねいたい,polite style(street+peace+body)
+所在,しょざい,location
+授ける,さずける,to give
+既設,きせつ,existing(already+establish)
+副作用,ふくさよう,Adverse effects(dup+make)
+併用,へいよう,combined use(join+use)
+頻度,ひんど,frequency(rep+deg)
+括る,くくる,to tie together
+状況,じょうきょう,situation(condit+condit) 
 継続,けいぞく,Continuation(continue+continue)
-繋ぐ,つなぐ,to connect
-職業,しょくぎょう,occupation
-設定,せってい,setting(premade)
-評価,ひょうか,assessment(judgement)
-辞示,じじ,show end of(talk)
-述べる,のべる,to state(to tell)
-道順,みちじゅん,course(direction sequence?)
-配慮,はいりょ,concern
-門限,もんげん,closing time
+比較,ひかく,comparison(compare+compare)
 面積,めんせき,area(area+area)
-項目,こうもく,dict entry(paragraph+look)
+勧める,すすめる,to offer
+意向,いこう,intention
+接続,せつぞく,connection
+相当,そうとう,correspond
+辞する,じする,to take leave
+収録,しゅうろく,recording(audio)
+漠然,ばくぜん,ambiguous(vague+thing)
+型,かた,pattern(model)
+手助け,てだすけ,a help
+従い,したがい,in accordance with
+求める,もとめる,to wish for
+促す,うながす,to encourage(tr)
+状態,じょうたい,state(condition+condition)
+少額,しょうがく,small sum (of money)
+近況報告,きんきょうほうこく,exchange of recent news
+歯科医院,しかいいん,dental clinic
+撮影,さつえい,photography 
+繰り返し,くりかえし,repeat
+反応,はんのう,reaction(anti-answer)
+所持,しょじ,posession(place+hold)
+業務,ぎょうむ,business(business+task)
+可,か,acceptable
+利用,りよう,use(benefit+use)
+想定,そうてい,expectation(idea+determine)
+独身,どくしん,Single+person
+疑問,ぎもん,question(question+question)
+沿う,そう,to follow(the main course)
+従属節,じゅうぞくせつ,subordination clause(lesser+genus+joint)
+前提,えんてい,assumption
+特徴,とくちょう,feature(spec+sign)
+架空,かくう,imaginary(stand+empty)
+規則,きそく,regulations
+症状,しょうじょう,symptoms
+配慮,はいりょ,concern
+公共,こうきょう,Public
+区切る,くぎる,to partition(district+cut)
+患者,かんじゃ,patient
