@@ -1,21 +1,22 @@
 名詞,めいし,noun
-動詞,どうし,verb
 形容詞,けいようし,adjective(shape+contain)
-代名詞,だいめいし,pronoun(substitute+name)
-助詞,じょし,particle(help)
+代名詞,だいめいし,pronoun(it)
+助詞,じょし,particle(の)
 接続詞,せつぞくし,conjunction (touch+continue)
-活用,かつよう,conjugation(active+use)
+活用,かつよう,conjugation (active+use)
 仮定形,かていけい,conditional form(hypotetical + determine)
 使役形,しえきけい,causative (who makes action happen)
 受け身形 ,うけみけい,passive(what action happened)
 使役受け身形,しえきうけみけい,causative+passive(who made action happen)
-目的語,もくてきご,object
-省略,しょうりゃく,Ellipsis (linguistics)
+省略,しょうりゃく,shortening (Ellipsis)
 主語,しゅご,subject
-主題,しゅだい,topic(は）
+目的語,もくてきご,object
+動詞,どうし,verb
+主題,しゅだい,topic
+述語,じゅつご,Predicate 
 時制,じせい,Grammatical tense
-他動詞,たどうし,tr verb
-自動詞,じどうし,intr verb
+他動詞,たどうし,transitive verb
+自動詞,じどうし,intransitive verb
 五段動詞,ごだんどうし,5th-grade verb
 一段動詞,いちだんどうし,1st-grade verb
 可能形,かのうけい,potential form
@@ -23,9 +24,10 @@
 命令形,めいれいけい,imperative form
 か行変格動詞,かぎょうへんかくどうし,irregular
 辞書,じしょ,dictionary form
-変格動詞,へんかくどうし,irregularity
+変格動詞,へんかくどうし,irregular verb
 活用動詞,かつようどうし,Grammatical conjugation
 表現,ひょうげん,expression
+方言,ほうげん,dialect
 文字,もじ,letters
 言葉,ことば,word
 数字,すうじ,numbers
@@ -35,7 +37,14 @@
 語彙,ごい,vocabulary
 言語,げんご,language
 数量詞,すうりょうし,quantifier
-連体修飾,れんたいしゅうしょく,modifier of a non-inflectable word
+修飾語,しゅうしょくご,Grammatical modifier
 前置詞,ぜんちし,preposition(at.on.in)
 逆接,ぎゃくせつ,contrastive conjunction(but)
+名詞化,めいしか,nominization
+文脈,ぶんみゃく,context(of a passage) 
+成す,なす,to form(tr)
+及び,および,as well as
+主節,しゅせつ,main clause
+従属節,じゅうぞくせつ,subordinate clause
+間接話法,かんせつわほう,indirect speech
 

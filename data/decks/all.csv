@@ -1,6 +1,5 @@
 お釣り,おつり,change(from cash)
 ダンダン,だんだん,more and more
-一般的,いっぱんてき,typical
 一連,いちれん,sequence
 上司,じょうし,superior
 上昇調,じょうしょうちょう,rising intonation(up+rise+tone)
@@ -13,15 +12,14 @@
 事柄,ことがら,matter
 事項,じこう,matter
 互いに,たがいに,each other
-代表,だいひょう,representative of a set(things like)
+代表,だいひょう,representative(things like)
 以降,いこう,onwards
 仮定,かてい,assumption(temp+fix)
 伴う,ともなう,to accompany(intr)
 住まい,すまい,dwelling
 促す,うながす,to encourage(tr)
-信号,しんごう,traffic light
 入れ替える,いれかえる,to replace(re+)
-公共,こうきょう,Public
+公共,こうきょう,Public(pub+together)
 共に,ともに,to do together
 共有,きょうゆう,sharing(files)
 出来事,できごと,event
@@ -61,7 +59,7 @@
 完了,かんりょう,completion
 宗教,しゅうきょう,Religion
 実情,じつじょう,real condition
-実際,じっさい, reality
+実際,じっさい, real
 客観的,きゃっかんてき,objective(unbiased)
 対照,たいしょう,contrast(anti+illuminate)
 尊敬,そんけい,respect
@@ -77,11 +75,11 @@
 年賀状,ねんがじょう,new years card(joy+shape)
 引き続き,ひきつづき,after that(something follows without a break)
 弾く,ひく,to play musical
-従い,したがい,in accordance with
+従う,したがう,to obay(to follow)
 従属節,じゅうぞくせつ,subordination clause(lesser+genus+joint)
 得る,える,to get
 必要性,ひつようせい,necessity
-応答,おうとう,response
+応答,おうとう,reply(to a question)
 恩恵,おんけい,grace(favor)
 患者,かんじゃ,patient
 想定,そうてい,expectation(idea+fix)
@@ -105,8 +103,8 @@
 接続,せつぞく,connection(concatc+continue)
 揃える,そろえる,to arrange
 描写,びょうしゃ,depiction(draw+copy)
-提出,ていしゅつ,presentation
-提示,ていじ,presentation
+提出,ていしゅつ,presentation(to bring out)
+提示,ていじ,presentation(showing)
 握る,にぎる,to grasp(tr)
 揶揄う,からかう,to make fun of
 撮影,さつえい,photography 
@@ -134,7 +132,7 @@
 板書,ばんしょ,writing on a blackboard
 架空,かくう,imaginary(stand+empty)
 業務,ぎょうむ,business(business+task)
-構成,こうせい,composed of(structure+become)
+構成,こうせい,composition(structure+become)
 機会,きかい,opportunity
 機械,きかい,machine
 機能,きのう,function
@@ -164,7 +162,6 @@
 留意,りゅうい,paying attention(stationary point+idea)
 留意点,りゅういてん,points to remember
 疑問,ぎもん,question(question+question)
-病状,びょうじょう,patien's condition
 症状,しょうじょう,symptoms
 発話,はつわ,speech
 皆無,かいむ,nothing(every+nothing)
@@ -196,14 +193,14 @@
 著しい,いちじるしい,considerable(remarkable)
 行う,おこなう,to perform
 行き先,いきさき,destination
-行為,こうい,deed
+行為,こうい,deed(noble act)
 表す,あらわす,to show(to express)
 複数,ふくすう,plural
 要る,いる,to need
 見学,けんがく,inspection
 規則,きそく,regulations
 視覚的,しかくてき,visual(editor)
-解説,かいせつ,commentary
+解説,かいせつ,detailed explanation
 記録,きろく,record(documented)
 訪問,ほうもん,visit
 訪問先,ほうもんさき,destination
@@ -238,6 +235,7 @@
 通過,つうか,passing through(pass+overdo)
 進む,すすむ,to advance(forward)
 過去,かこ,past
+病状,びょうじょう,patient's condition
 道順,みちじゅん,course(direction sequence?)
 選択,せんたく,selection
 配慮,はいりょ,concern
@@ -256,9 +254,88 @@
 作業,さぎょう,task
 登場,とうじょう,arrival(appearance)
 人物,じんぶつ,character(game)
-特定,とくてい,specific(spec+fix)
+特定,とくてい,specific(not broad)
 状況,じょうきょう,situation
 異なる,ことなる,to differ(intr)
 余裕,よゆう,surplus(to afford something)
 軽い,かるい,lite
 治療,ちりょう,Therapy
+当然,とうぜん,natural
+難易度,たんいど,difficulty degree
+習慣,しゅうかん,habbit
+判断,はんだん,judgement
+意志,いし,will(intention)
+依願,いがい,in accordance to ones request
+助言,じょげん,Advice
+情報,じょうほう,information
+提供,ていきょう,donation
+頼り,たより,reliance(on onself)
+方言,ほうげん,dialect
+唱える,となえる,to chant(to say) 
+構造,こうぞう,structure(posture+create)
+直前,ちょくぜん,just before
+区別,くべつ,distinction
+夫,おっと,husband
+合わせる,あわせる,to match(tr)
+所在,しょぞん,location(on a map)
+将来,しょうらい,future
+廊下,ろうか,corridor
+初級,しょきゅう,elementary level
+位置,いち,position(location)
+依然,いぜん,still(still there)
+様子,ようす,state
+意図,いと,intention(intentional)
+遅れる,おこれる,to be late
+始動,しどう,starting(a machine)
+振舞う,ふるまう,to behave
+一般的,いっぱんてき,broad(question)
+想像,そうぞう,guess(supposition)
+時速,じそく,speed(per h)
+昨夜,さくや,last night
+副次的,ふくじてき,secondary
+見分ける,みわける,to tell apart tr(one from another)
+期間,きかん,period
+季節,きせつ,Season
+進行,しんこう,moving forward
+渡る,わたる,to cover(to extend)
+添加,てんか,addition
+累加,るいか,progressive increase
+充電,じゅうでん,charge
+電池,でんち,battery
+詐欺師,さぎし,scammer
+確立された接続,かくりつされたせつぞく,establish connection	
+切断された接続,せつだんされたせつぞく,interrupted connection
+発信者,はっしんしゃ,caller number
+信号,しんごう,signal
+受信エリア,じゅしんえりあ,network coverage area
+通知,つうち,notification
+発信者の身元,はっしんしゃのみもと,caller identity		
+自撮り,じどり,selfie
+電話を切る,でんわをきる,hang up the phone
+充電器,じゅうでんき,charger
+通話先,つうわさき,call destination
+通話元,つうわもと,call origin
+発信,はっしん,outgoing call
+着信,ちゃくしん,incoming call
+不都合,ふつごう,unfavourable
+遺憾,いかん,regret
+何らか,なんらか,in some way
+伝える,つたえる,to report
+月に一度,つきにいちど,once a month
+お馴染み,おなじみ,familiar
+迷いなく,まよいなく,without hesitation
+底,そこ,bottom(of page)
+防止,ぼうし,prevention
+認識,にんしき,awareness
+スキャン,すきゃん,to scan
+無神経,むしんけい,insensitive
+アプリ,あぷる,application(soft)
+トランザクション,とらんざくしょん,transaction
+オンライン,おんらいん,online
+指示に従う,しじにしたがう,to follow instructions
+知覚,ちかく,Perception
+最後,さいご,last time
+被害者,ひがいしゃ,victim
+自身,じしん,(one's) self
+大事,だいじ,important
+行動,こうどう,behaviour
