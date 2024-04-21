@@ -1,129 +1,84 @@
-一連,いちれん,sequence
-上司,じょうし,superior
-上記,じょうき,above-mentioned
-与える,あたえる,to give
-事柄,ことがら,matter
-事項,じこう,matter
-代表,だいひょう,representative(things like)
-以降,いこう,onwards
+ダンダン,だんだん,more and more
+不動産屋,ふどうさんや,real estate agent(birth+seller)
+事項,じこう,matter(thing+item)
 仮定,かてい,assumption(temp+fix)
-伴う,ともなう,to accompany(intr)
-余裕,よゆう,surplus(to afford something)
-作業,さぎょう,task
-促す,うながす,to encourage(tr)
-公共,こうきょう,Public(pub+together)
-共有,きょうゆう,sharing(files)
-初級,しょきゅう,elementary level
-前件,ぜんけん,previous case(cnt cases)
-前提,えんてい,assumption
+促す,うながす,to encourage tr
+前提,ぜんてい,condition(before+carry in hand)
 労り,いたわり, sympathy
-勧める,すすめる,to offer
-印象,いんしょう,impression
-反応,はんのう,reaction(anti-answer)
-収録,しゅうろく,recording(audio)
-可否,かひ,can or cant
-合わせる,あわせる,to match(tr)
-吟味,ぎんみ,careful investigation(verify)
-否定,ひてい,denial(non-fix)
-喚起,かんき,arousal
-回数,かいすう,number of times
-地域,ちいき,region
-場面,ばめん,scene
-境界線,きょうかいせん,boundary line
-実際,じっさい, real
-客観的,きゃっかんてき,objective(unbiased)
-対照,たいしょう,contrast(anti+illuminate)
-尊敬,そんけい,respect
-尊敬語,そんけいご,honor lang(precious+honor)
-尊重,そんちょう,respect(precious+heavy)
-尋ねる,たずねる,to ask
-導く,みちびく,to show the way
-少額,しょうがく,small sum (of money)
-幅,はば,range(in range of 3 hours)
-引き続き,ひきつづき,after that(something follows without a break)
-従う,したがう,to obay(to follow)
-必要性,ひつようせい,necessity
-応答,おうとう,reply(to a question)
-恩恵,おんけい,grace(favor)
-患者,かんじゃ,patient
-想定,そうてい,expectation(idea+fix)
-意向,いこう,intention
-感想,かんそう,impression
-所持,しょじ,posession(place+hold)
-指示に従う,しじにしたがう,to follow instructions
-接する,せっする,to be adjacent(itnr)
-接続,せつぞく,connection(concatc+continue)
-揃える,そろえる,to arrange
-提示,ていじ,presentation(showing)
-撮影,さつえい,photography 
-故郷,ふるさと,hometown
-数個,すうこ,several
-数量,すうりょう,quantity
-未習,みしゅう,not yet learned
-条件,じょうけん,conditional
-板書,ばんしょ,writing on a blackboard
-架空,かくう,imaginary(stand+empty)
-業務,ぎょうむ,business(business+task)
-構成,こうせい,composition(structure+become)
-構造,こうぞう,structure(posture+create)
-欄,らん,section(newspaper)
-欲求,よっきゅう,desires
-気味,きみ,-like(tendency)
-気遣い,きづかい,worry
-求める,もとめる,to wish for
-治療,ちりょう,Therapy
-沿う,そう,to follow(the main course)
+動作,どうさ,operation(move+make)
+従属節,じゅうぞくせつ,subordination clause(lesser+genus+joint)
+得る,える,to get
+成立,せいりつ,formation(become+stand)
+手段,しゅだん,means(hand+steps)
+拾う,ひろう,to pick up
+指示,しじ,indication
+掃除,そうじ,cleaning(sweep+exclude)
+描写,びょうしゃ,depiction(draw+copy)
+提示,ていじ,presentation(carry in hands+show)
+教材,きょうざい,teaching+materials
+既習,きしゅう,already learned(prev+learn)
+条件,じょうけん,conditional(clause+case)
+段階,だんかい,phase
 渡す,わたす,to hand over
-渡る,わたる,to cover(to extend)
 漠然,ばくぜん,ambiguous(vague+thing)
 無縁,むえん,unrelated(non-affinity)
-特定,とくてい,specific(not broad)
-特徴,とくちょう,feature(spec+sign)
-独身,どくしん,Single+person
-用法,ようほう,rules of use
-病状,びょうじょう,patient's condition
-登場,とうじょう,arrival(appearance)
+状態,じょうたい,state(state diagram)
+疑問,ぎもん,question(question+question)
+症状,しょうじょう,symptoms
+発話,はつわ,speech
 皆無,かいむ,nothing(every+nothing)
-相席,あいせき,sharing a table with someone
-相当,そうとう,corresponding to(in meaning)
 相撲,すもう,Sumo
-省略,しょうりゃく,omission
-知覚,ちかく,Perception
-砕ける,くだける,to be broken(intr)
-禁止,きんし,prohibition
-移動,いどう,transfer(move+move)
+確定,かくてい,confirmation(sure+fix)
+示す,しめす,to indicate
 種類,しゅるい,kind(category)
-組織,そしき,organized(assoc+weave)
+絵教材,えきょうざい,picture+teaching materials
 職業,しょくぎょう,occupation
-肯定,こうてい,affirmitive(agree+fix)
-著しい,いちじるしい,considerable(remarkable)
-被害者,ひがいしゃ,victim
 複数,ふくすう,plural
-見学,けんがく,inspection
-視覚的,しかくてき,visual(editor)
-記録,きろく,record(documented)
+規則,きそく,regulations
 設定,せってい,to set up(prepare+fix)
-許可,きょか,permission
-診察,しんさつ,physical examination
-評価,ひょうか,assessment(judgement)
-認識,にんしき,awareness
-誤解,ごかい,misunderstanding
-費用,ひよう,cost
-資料,しりょう,documents
-身内,みうち,relatives(family)
-身分,みぶん,(social) standing
-身近,みぢか,near oneself
-辞する,じする,to take leave
-近況報告,きんきょうほうこく,exchange of recent news
 返答,へんとう,answer
-迷いなく,まよいなく,without hesitation
+追う,おう,to follow after
 送別会,そうべつかい,farewell party
-逆立ち,さかだち,being upside down
-進行,しんこう,moving forward
-遺憾,いかん,regret
-配慮,はいりょ,concern
-門限,もんげん,closing time
-関する,かんする,to be related
-離れる,はなれる,to separated(intr)
+通過,つうか,passing through(pass+overdo)
+進む,すすむ,to advance(forward)
+過去,かこ,past
+病状,びょうじょう,patient's condition
+選択,せんたく,selection
 順序,じゅんじょ,sequence
-飲食店,いんしょくてん,restaurant
+軽い,かるい,lite
+難易度,たんいど,difficulty degree
+判断,はんだん,judgement
+意志,いし,will(intention)
+依願,いがい,in accordance to ones request
+助言,じょげん,Advice
+情報,じょうほう,information
+提供,ていきょう,donation
+頼り,たより,reliance(on onself)
+唱える,となえる,to chant(to say) 
+所在,しょぞん,location(on a map)
+位置,いち,position(location)
+依然,いぜん,still(still there)
+意図,いと,intention(intentional)
+副次的,ふくじてき,secondary
+進行,しんこう,moving forward
+渡る,わたる,to cover(to extend)
+添加,てんか,addition
+累加,るいか,progressive increase
+詐欺師,さぎし,scammer
+確立された接続,かくりつされたせつぞく,establish connection	
+切断された接続,せつだんされたせつぞく,interrupted connection
+発信者,はっしんしゃ,caller number
+受信エリア,じゅしんえりあ,network coverage area
+通知,つうち,notification
+通話先,つうわさき,call destination
+通話元,つうわもと,call origin
+発信,はっしん,outgoing call
+着信,ちゃくしん,incoming call
+不都合,ふつごう,unfavourable
+遺憾,いかん,regret
+底,そこ,bottom(of page)
+防止,ぼうし,prevention
+認識,にんしき,awareness
+知覚,ちかく,Perception
+自身,じしん,(one's) self
+行動,こうどう,behaviour
