@@ -1,51 +1,184 @@
-ダンダン,だんだん,more and more
-不動産屋,ふどうさんや,real estate agent(birth+seller)
+一連,いちれん,sequence(connect)
+事柄,ことがら,matter(thing+pattern)
 事項,じこう,matter(thing+item)
+以降,いこう,onwards(by means of+descend)
 仮定,かてい,assumption(temp+fix)
+伴う,ともなう,to accompany intr
 促す,うながす,to encourage tr
+共有,きょうゆう,sharing(together+posess)
+券売機,けんばいき,(ticket selling machine)
+前件,ぜんけん,(previous case)
 前提,ぜんてい,condition(before+carry in hand)
 労り,いたわり, sympathy
-動作,どうさ,operation(move+make)
+勧める,すすめる,to recommend
+印象,いんしょう,impression(seal+image)
+反対,はんたい,opposite(anti+oppose)
+反応,はんのう,reaction(Chemical)
+取り立てる,とりたてる,to emphasize
+可否,かひ,can or cant
+各自,かくじ,each
+否定,ひてい,denial(non-fix)
+喚起,かんき,arousal(summon+wake)
+型,かた,pattern(model)
+実情,じつじょう,(reality+the way things really are)
+実際,じっさい,(real+case)
+対照,たいしょう,contrast(oppose+illuminate)
+尊敬,そんけい,(precious+respect)
+尊敬語,そんけいご,honor lang(precious+honor)
+尊重,そんちょう,respect(precious+heavy)
+尋ねる,たずねる,to ask
+導く,みちびく,to show the way
+導入,どうにゅう,introduction(to a story)
+居間,いま,living room(residence+space)
+左,ひだり,left
+従う,したがう,to follow(to obay)
 従属節,じゅうぞくせつ,subordination clause(lesser+genus+joint)
-得る,える,to get
+応答,おうとう,reply(respond+solution)
+恩恵,おんけい,favor(kind+blessing)
+患者,かんじゃ,patient(disease+person)
+想定,そうてい,expectation(idea+fix)
+意向,いこう,intention
+感想,かんそう,impression(feeling+idea)
+感謝,かんしゃ,gratitude(emo+appologize)
+慣れる,なれる,to get accustomed
 成立,せいりつ,formation(become+stand)
+所持,しょじ,posession(place+hold)
 手段,しゅだん,means(hand+steps)
-拾う,ひろう,to pick up
+指導,しどう,guidance(finger+guidance)
 指示,しじ,indication
-掃除,そうじ,cleaning(sweep+exclude)
+接する,せっする,to be adjacent(itnr)
+接続,せつぞく,connection(adjacent+continue)
+揃える,そろえる,to arrange
 描写,びょうしゃ,depiction(draw+copy)
+提出,ていしゅつ,presentation(carry in hands+go out)
 提示,ていじ,presentation(carry in hands+show)
+握る,にぎる,to grasp tr
+揶揄う,からかう,to make fun of
+撮影,さつえい,photography(snapshot+shadow)
+故郷,ふるさと,hometown(old home)
 教材,きょうざい,teaching+materials
+散歩,さんぽ,to walk(scatter+walk)
+敬語,けいご,honorific language
+数個,すうこ,several
+数量,すうりょう,quantity
+整理,せいり,sorting(organize+logic)
+文型,ぶんけい,sentence pattern
+文章,ぶんしょう,sentence(sentence+composition)
+断る,ことわる,to refuse
+方向,ほうこう,Direction
 既習,きしゅう,already learned(prev+learn)
+時制,じせい,Grammatical tense
+時間軸,じかんじく,time axis
+暇,ひま,free time
+有無,うむ,existence or nonexistence
+未習,みしゅう,not yet learned
 条件,じょうけん,conditional(clause+case)
+板書,ばんしょ,writing on a blackboard
+架空,かくう,imaginary(stand+empty)
+業務,ぎょうむ,business(business+task)
+構成,こうせい,composition(structure+become)
+機械,きかい,machine
+欄,らん,section(newspaper)
+欲求,よっきゅう,desires
+歓談,かんだん,pleasant talk
+止める,とめる,to stop(tr)
+歯科医院,しかいいん,dental clinic
 段階,だんかい,phase
+母国語,ぼこくご,native country languge
+気味,きみ,-like(tendency)
+気遣い,きづかい,worry
+決定,けってい,decision(decide+fix)
+沿う,そう,to follow(the main course)
 渡す,わたす,to hand over
 漠然,ばくぜん,ambiguous(vague+thing)
 無縁,むえん,unrelated(non-affinity)
-状態,じょうたい,state(state diagram)
+特徴,とくちょう,feature(spec+sign)
+状態,じょうたい,state of something specific
+独身,どくしん,Single+person
+用いる,もらいる,to use 
+用意,ようい,provide smth
+用法,ようほう,rules of use
+田舎,いなか,rural area
+留意,りゅうい,paying attention(stationary point+idea)
+留意点,りゅういてん,points to remember
 疑問,ぎもん,question(question+question)
 症状,しょうじょう,symptoms
 発話,はつわ,speech
 皆無,かいむ,nothing(every+nothing)
+相席,あいせき,sharing a table with someone
+相当,そうとう,corresponding to(in meaning)
 相撲,すもう,Sumo
+省略,しょうりゃく,omission
+砕ける,くだける,to be broken(intr)
 確定,かくてい,confirmation(sure+fix)
+確認,かくにん,confirmation
 示す,しめす,to indicate
+禁止,きんし,prohibition
+移動,いどう,transfer(move+move)
 種類,しゅるい,kind(category)
+約束,やくそく,promise(promise+bundle)
+組織,そしき,organized(assoc+weave)
+経験,けいけん,Experience
 絵教材,えきょうざい,picture+teaching materials
+練習の際,れんしゅうのさい,when practice
+繋がり,つながり,connection
+繰り返し,くりかえし,repeat
 職業,しょくぎょう,occupation
+肯定,こうてい,affirmitive(agree+fix)
+自宅,じたく,own house
+著しい,いちじるしい,considerable(remarkable)
+行為,こうい,deed(noble act)
+表す,あらわす,to show(to express)
 複数,ふくすう,plural
+見学,けんがく,inspection
 規則,きそく,regulations
+視覚的,しかくてき,visual(editor)
+解説,かいせつ,detailed explanation
+訪問,ほうもん,visit
+訪問先,ほうもんさき,destination
 設定,せってい,to set up(prepare+fix)
+許可,きょか,permission
+診察,しんさつ,physical examination
+評価,ひょうか,assessment(judgement)
+誘う,さそう,to invite
+語彙,ごい,vocabulary(word+type)
+誤解,ごかい,misunderstanding
+読解,どっかい,reading comprehansion
+費用,ひよう,cost
+資料,しりょう,documents
+距離,きょり,distance(long dist+detach)
+身につける,みにつける,to learn
+身内,みうち,relatives(family)
+身分,みぶん,(social) standing
+身近,みぢか,near oneself
+辞する,じする,to take leave
+込める,こめる,to load(a gun)
+近況報告,きんきょうほうこく,exchange of recent news
 返答,へんとう,answer
 追う,おう,to follow after
 送別会,そうべつかい,farewell party
+逆,ぎゃく,reverse assessment(A but also B)
+逆立ち,さかだち,being upside down
 通過,つうか,passing through(pass+overdo)
-進む,すすむ,to advance(forward)
 過去,かこ,past
 病状,びょうじょう,patient's condition
+道順,みちじゅん,course(direction sequence?)
 選択,せんたく,selection
+配慮,はいりょ,concern
+野球,やきゅう,Baseball
+門限,もんげん,closing time
+関する,かんする,to be related
+関係,かんけい,relation(conn+conn)
+静か,しずか,quiet(place)
 順序,じゅんじょ,sequence
+作業,さぎょう,task
+登場,とうじょう,arrival(appearance)
+特定,とくてい,specific(moment)
+状況,じょうきょう,state in general
+異なる,ことなる,to differ(intr)
+余裕,よゆう,surplus(to afford something)
 軽い,かるい,lite
+治療,ちりょう,Therapy
 難易度,たんいど,difficulty degree
 判断,はんだん,judgement
 意志,いし,will(intention)
@@ -54,31 +187,55 @@
 情報,じょうほう,information
 提供,ていきょう,donation
 頼り,たより,reliance(on onself)
+方言,ほうげん,dialect
 唱える,となえる,to chant(to say) 
+構造,こうぞう,structure(posture+create)
+直前,ちょくぜん,just before
+夫,おっと,husband
+合わせる,あわせる,to match(tr)
 所在,しょぞん,location(on a map)
+将来,しょうらい,future
+廊下,ろうか,corridor
+初級,しょきゅう,elementary level
 位置,いち,position(location)
 依然,いぜん,still(still there)
 意図,いと,intention(intentional)
+遅れる,おこれる,to be late
+振舞う,ふるまう,to behave
+想像,そうぞう,guess(supposition)
+時速,じそく,speed(per h)
+昨夜,さくや,last night
 副次的,ふくじてき,secondary
+期間,きかん,period
 進行,しんこう,moving forward
 渡る,わたる,to cover(to extend)
 添加,てんか,addition
 累加,るいか,progressive increase
+充電,じゅうでん,charge
 詐欺師,さぎし,scammer
 確立された接続,かくりつされたせつぞく,establish connection	
 切断された接続,せつだんされたせつぞく,interrupted connection
 発信者,はっしんしゃ,caller number
 受信エリア,じゅしんえりあ,network coverage area
 通知,つうち,notification
+発信者の身元,はっしんしゃのみもと,caller identity		
+自撮り,じどり,selfie
+充電器,じゅうでんき,charger
 通話先,つうわさき,call destination
 通話元,つうわもと,call origin
-発信,はっしん,outgoing call
-着信,ちゃくしん,incoming call
+発信,はっしん,outgoing signal
+着信,ちゃくしん,incoming signal
 不都合,ふつごう,unfavourable
 遺憾,いかん,regret
+何らか,なんらか,in some way
+伝える,つたえる,to report
+お馴染み,おなじみ,familiar
+迷いなく,まよいなく,without hesitation
 底,そこ,bottom(of page)
 防止,ぼうし,prevention
-認識,にんしき,awareness
+認識,にんしき,understanding
+無神経,むしんけい,insensitive
+指示に従う,しじにしたがう,to follow instructions
 知覚,ちかく,Perception
+被害者,ひがいしゃ,victim
 自身,じしん,(one's) self
-行動,こうどう,behaviour

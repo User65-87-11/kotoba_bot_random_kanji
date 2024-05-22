@@ -1,5 +1,7 @@
 import sys
 
+
+
 #gen reading 省上小生
 target_file = sys.argv[1]
 replace_with_file = sys.argv[2]
