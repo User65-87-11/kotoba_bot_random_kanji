@@ -1,6 +1,0 @@
-change to pyton
-
-for each JLPT_N words
-    collect words with 2 kanji
-    pick only kunjomi
-    practice kunjomi
