@@ -2,7 +2,6 @@
 ダンダン,だんだん,more and more
 一連,いちれん,sequence(connect)
 上司,じょうし,superior(ruler)
-上昇調,じょうしょうちょう,rising intonation(up+rise+tone)
 上記,じょうき,(above-mentioned)
 不動産屋,ふどうさんや,real estate agent(birth+seller)
 与える,あたえる,to give
@@ -26,11 +25,10 @@
 切手,きって,postal stamp(cut+hand)
 利用,りよう,use(benefit+use)
 券売機,けんばいき,(ticket selling machine)
-前件,ぜんけん,(previous case)
-前後,ぜんご,before and after
+前後,ぜんご,before and after(photo)
 前提,ぜんてい,condition(before+carry in hand)
-加える,くわえる,to add
-労り,いたわり, sympathy
+加える,くわえる,to add something
+同情,どうじょう, sympathy
 動かす,うごかす,to move(tr)
 動作,どうさ,operation(move+make)
 勧める,すすめる,to recommend
@@ -43,7 +41,7 @@
 取り立てる,とりたてる,to emphasize
 可,か,acceptable
 可否,かひ,can or cant
-各自,かくじ,each
+各自,かくじ,everyone
 同室,どうしつ,same room
 同様に,どうように,identically
 吟味,ぎんみ,careful investigation(verify)
@@ -54,16 +52,13 @@
 地域,ちいき,region(ground+limits)
 型,かた,pattern(model)
 場面,ばめん,scene
-境界線,きょうかいせん,(boundary+world+line)
 学習,がくしゅう,learning
 完了,かんりょう,completion
 宗教,しゅうきょう,(religion+teachin)
-実情,じつじょう,(reality+the way things really are)
-実際,じっさい,(real+case)
+実際,じっさい,in reality
 客観的,きゃっかんてき,unbiased(visitor+view)
 対照,たいしょう,contrast(oppose+illuminate)
-尊敬,そんけい,(precious+respect)
-尊敬語,そんけいご,honor lang(precious+honor)
+尊敬語,そんけいご,respect lang(precious+honor)
 尊重,そんちょう,respect(precious+heavy)
 尋ねる,たずねる,to ask
 導く,みちびく,to show the way
@@ -82,7 +77,7 @@
 応答,おうとう,reply(respond+solution)
 恩恵,おんけい,favor(kind+blessing)
 患者,かんじゃ,patient(disease+person)
-想定,そうてい,expectation(idea+fix)
+想定,そうてい,hypothesis(idea+fix)
 意向,いこう,intention
 感想,かんそう,impression(feeling+idea)
 感謝,かんしゃ,gratitude(emo+appologize)
@@ -98,7 +93,6 @@
 指示,しじ,indication
 挨拶,あいさつ,greeting
 掃除,そうじ,cleaning(sweep+exclude)
-授受,じゅじゅ,transferring(give+receive)
 接する,せっする,to be adjacent(itnr)
 接続,せつぞく,connection(adjacent+continue)
 揃える,そろえる,to arrange
@@ -111,23 +105,20 @@
 故郷,ふるさと,hometown(old home)
 教材,きょうざい,teaching+materials
 散歩,さんぽ,to walk(scatter+walk)
-敬語,けいご,honorific language
 数個,すうこ,several
 数量,すうりょう,quantity
 整理,せいり,sorting(organize+logic)
 文型,ぶんけい,sentence pattern
 文章,ぶんしょう,sentence(sentence+composition)
 断る,ことわる,to refuse
-新出語,しんしゅつご,(new+appear+word)
 方向,ほうこう,Direction
-既習,きしゅう,already learned(prev+learn)
 時制,じせい,Grammatical tense
 時間軸,じかんじく,time axis
 暇,ひま,free time
 有無,うむ,existence or nonexistence
 期限,きげん,period limit
 未習,みしゅう,not yet learned
-条件,じょうけん,conditional(clause+case)
+条件,じょうけん,condition(grammar)
 来客,らいきゃく,visitor
 板書,ばんしょ,writing on a blackboard
 架空,かくう,imaginary(stand+empty)
@@ -136,9 +127,7 @@
 機会,きかい,opportunity
 機械,きかい,machine
 機能,きのう,function
-欄,らん,section(newspaper)
 欲求,よっきゅう,desires
-歓談,かんだん,pleasant talk
 止める,とめる,to stop(tr)
 歯科医院,しかいいん,dental clinic
 段階,だんかい,phase
@@ -147,30 +136,26 @@
 気遣い,きづかい,worry
 求める,もとめる,to wish for
 決定,けってい,decision(decide+fix)
-沿う,そう,to follow(the main course)
 渡す,わたす,to hand over
-漠然,ばくぜん,ambiguous(vague+thing)
+漠然,ばくぜん,vague(unclear)
 無縁,むえん,unrelated(non-affinity)
 特徴,とくちょう,feature(spec+sign)
 状態,じょうたい,state of something specific
 独身,どくしん,Single+person
 現金,げんきん,cash money
-用いる,もらいる,to use 
+用いる,もちいる,to use 
 用意,ようい,provide smth
 用法,ようほう,rules of use
 田舎,いなか,rural area
-留意,りゅうい,paying attention(stationary point+idea)
-留意点,りゅういてん,points to remember
 疑問,ぎもん,question(question+question)
 症状,しょうじょう,symptoms
 発話,はつわ,speech
 皆無,かいむ,nothing(every+nothing)
 目的語,もくてきご,object  
-相席,あいせき,sharing a table with someone
 相当,そうとう,corresponding to(in meaning)
-相撲,すもう,Sumo
+相撲,すもう,Sumo(inter+slap)
 省略,しょうりゃく,omission
-砕ける,くだける,to be broken(intr)
+砕ける,くだける,to be shattered(intr)
 確定,かくてい,confirmation(sure+fix)
 確認,かくにん,confirmation
 示す,しめす,to indicate
@@ -180,11 +165,11 @@
 第三者,だいさんしゃ,3rd party
 約束,やくそく,promise(promise+bundle)
 終わる,おわる,to end(int)
-組織,そしき,organized(assoc+weave)
+組織,そしき,organization(assoc+weave)
 経験,けいけん,Experience
 絵教材,えきょうざい,picture+teaching materials
 練習の際,れんしゅうのさい,when practice
-繋がり,つながり,connection
+繋がり,つながり,relationship
 繰り返し,くりかえし,repeat
 聞き手,ききて,listener
 職業,しょくぎょう,occupation
@@ -197,7 +182,7 @@
 表す,あらわす,to show(to express)
 複数,ふくすう,plural
 要る,いる,to need
-見学,けんがく,inspection
+見学,けんがく,field trip
 規則,きそく,regulations
 視覚的,しかくてき,visual(editor)
 解説,かいせつ,detailed explanation
@@ -207,7 +192,7 @@
 設定,せってい,to set up(prepare+fix)
 許可,きょか,permission
 診察,しんさつ,physical examination
-評価,ひょうか,assessment(judgement)
+評価,ひょうか,personal judgement
 詞,ことば,word
 話し手,はなして,speaker
 詳しい,くわしい,detailed
@@ -238,7 +223,7 @@
 病状,びょうじょう,patient's condition
 道順,みちじゅん,course(direction sequence?)
 選択,せんたく,selection
-配慮,はいりょ,concern
+配慮,はいりょ,consideration
 野球,やきゅう,Baseball
 門限,もんげん,closing time
 関する,かんする,to be related
@@ -265,7 +250,6 @@
 習慣,しゅうかん,habbit
 判断,はんだん,judgement
 意志,いし,will(intention)
-依願,いがい,in accordance to ones request
 助言,じょげん,Advice
 情報,じょうほう,information
 提供,ていきょう,donation
@@ -289,7 +273,7 @@
 始動,しどう,starting(a machine)
 振舞う,ふるまう,to behave
 一般的,いっぱんてき,typical(question)
-想像,そうぞう,guess(supposition)
+想像,そうぞう,guess(think+statue)
 時速,じそく,speed(per h)
 昨夜,さくや,last night
 副次的,ふくじてき,secondary
@@ -305,7 +289,7 @@
 詐欺師,さぎし,scammer
 確立された接続,かくりつされたせつぞく,establish connection	
 切断された接続,せつだんされたせつぞく,interrupted connection
-発信者,はっしんしゃ,caller number
+発信者,はっしんしゃ,caller(originator)
 信号,しんごう,signal
 受信エリア,じゅしんえりあ,network coverage area
 通知,つうち,notification
@@ -313,8 +297,6 @@
 自撮り,じどり,selfie
 電話を切る,でんわをきる,hang up the phone
 充電器,じゅうでんき,charger
-通話先,つうわさき,call destination
-通話元,つうわもと,call origin
 発信,はっしん,outgoing signal
 着信,ちゃくしん,incoming signal
 不都合,ふつごう,unfavourable
@@ -325,7 +307,7 @@
 お馴染み,おなじみ,familiar
 迷いなく,まよいなく,without hesitation
 底,そこ,bottom(of page)
-防止,ぼうし,prevention
+予防,よぼう,prevention
 認識,にんしき,understanding
 スキャン,すきゃん,to scan
 無神経,むしんけい,insensitive

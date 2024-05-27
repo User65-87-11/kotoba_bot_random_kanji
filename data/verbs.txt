@@ -1,0 +1,626 @@
++to absorb something,「を吸収する」,きゅうしゅうする
++to accelerate,「が加速」,かそくする
+[to speed up]
+[in math the formula is a=v/t, speed divided by time]
++to access something,「をアクセス」,あくせすする
++to accompany,「お供する」,おともする
++to act like someone,「振る舞う」,ふるまう
++to rage,「が暴れる」,あばれる
++to sum up quantities,「を足す」,たす
++to add something,「を加える」,くわえる
++to adjust something,「を調整する」,ちょうせいする
++to get affected,「影響を受ける」
++to have same opinion about something,「を同意する」,どういする
++to agree to favour one thing over another,「賛成する」,さんせいする,
++to align with something,「を合わせる」,あわせる
++to allow something,「を許可する」,きょかする
++to analyse something,「を分析する」,ぶんせきする
++to answer someone,「を答える」,こたえる
++to apologize,「が謝る」,あやまる
++to appear,「が現れる」,あらわれる
++to approach something,～に近づく,ちかづく
++to put something somewhere,「をおく」,おく
++to put away ,「片付ける」,かたづける
++to arrest someone,「逮捕する」,たいほする
+[to capture someone]
++to prevent something,「阻止する」,そうしする
+[to prevent burglary]
+
++to attach something to something,「～を～に付ける」,つける
+[to attach a file to an email]
+[to attach is to add to a surface. Something like a sticker]
+[attach cables to TV set]
+
++to attract something ,「～を引き付ける」,ひきつける
+[i have attracted your attention]
+[the Earth is attracted to the Sun]
+[magnet can attract iron]
+
++to charm,「魅了する」,みりょうする
+
++to avoid something,「～を避ける」,さける
+
++to admire,「～に憧れる」,あこがれる
+
++to be confident about something,「～について自信を持つ」,じしんをもつ
+
++to be familiar with something,「～に精通する」,せいつうする
+[i am familiar with this place]
+[i am familiar with this person]
+
++to be heard,「聞こえる」,きこえる
+
++to behave like someone,「～のように振る舞う」,ふるまう
+[]
+
++to believe in something,「～を信じる」,しんじる
+[]
+
++to use something,「を使う」,つかう
++to wait for something,「を待つ」,まつ
++to walk somewhere,「に歩く」,あるく
++to warn someone,「に注意をする」,ちゅういをする
++to wash something,「を洗う」,あらう
++to wear something,「を着る」,きる
++to win something,「に勝つ」,かつ
++to wish for something,「〜を望む」,のぞむ
++to write something,「を書く」,かく
+
++to bend something,「～を曲げる」,まげる
+[this pipe is bent the wrong way]
+[that's because i have bent the pipe the wrong way]
+
++to bite something,「を噛み付く」,かみつく
+[]
+
++to blame someone,「誰かを責める」,せめる
+[]
+
++to become sad,「悲しくなる」,かなしくなる
+[]
+
+
++to borrow something,「借りる」,かりる
+[]
+
++to break something,「～を壊す」,こわす
+[i broke my watch]
+[the famous athlete broke the world record]
+
++to breath,「が呼吸する」,こきゅうする
+[]
+
++to build something,「～を建てる」,たてる
+[ants bild their nests under a tree]
+
++to bully someone,「誰かをいじめる」,いじめる
+[i was bullied a lot at school]
+
++to burn something,「～を燃やす」,もやす
+[i have burned my finger, it hurts]
+
++to capture something,「～を捕まえる」,つかまえる
+[i have captured a fish]
+[animal that excaped from the zoo was finally captured]
+
++to chase someone,「誰かを追いかける」,おいかける
+[after hours of chasing escaped animal, the resque team finally caught it]
+
++to buy something,「を買う」,かう
+[]
+
++to close something,「～を閉める」,しめる
+[to close a water tap]
+[to close a door]
+[to put something from a opened state into closed state]
+[to close an application]
+
++to cook,「料理する」,りょうりする
+[]
+
++to cry ,「鳴く」,なく
+
++to cut something,「切る」,きる
+
++to decide on something,「～を決める」,きめる
+[i have decided to go to buy something]
+[i have set my mind]
+
++to cross something,「～を横切る」,よこぎる
+[to cross a line]
+[to cross a street]
+[all across the world]
+[to move over some limited area, to enter the area and to exit is to cross]
+
++to doubt someone,「誰かを疑う」,うたがう
++to draw something,「～を描く」,えがく
++to drive something,「～を運転する」,うんてんする
++to drop something,「～を落とす」,おとす
++to dry something up,「～を乾かす」,かわかす
++to eat something,「を食べる」,たべる
++to sell something,「を売る」,うる
++to smile ,「に微笑む」,ほほえむ
++to sound,「が鳴る」,なる
++to sleep,「が寝る」,ねる
++to steal something,「を盗む」,ぬすむ
++to step on something,「を踏む」,ふむ
++to swim,「が泳ぐ」,およぐ
++to take off cloth,「を脱ぐ」,ぬぐ
++to talk,「と話す」,はなす
++to think about something,「〜について考える」,かんがえる
++to throw (abandon) something out,「を投げ出す」,なげだす
++to throw something,「を投げる」,なげる
++to show something,「を見せる」,みせる
++to shine,「が光る」,ひかる
++to sharpen something,「を研ぐ」,とぐ
++to send something,「を送る」,おくる
++to separate from,「と離れる」,はなれる
++to see something,「を見る」,みる
++to seek something(to search),「を探す」,さがす
++to make sound ,「が鳴る」,なる
++to say something,「を言う」,いう
++to move ,「が動く」,うごく
++to move something,「を動かす」,うごかす
++to run,「が走る」,はしる
++to order something at restaurant,「～を注文する」,ちゅうもんする
++to ride something,「を乗る」,のる
++to rise something,「～を上げる」,あげる
++to pay for something,「～を払う」,はらう
++to pick something up,「～を拾う」,ひろう
++to pile something up,「～を積む」,つむ
++to return home,「が帰る」,かえる
++to return something,「を戻す」,もどす
++to listen to something,「を聞く」,きく
++to read something,「を読む」,よむ
++to reasearch something,[研究する],けんきゅうする
++to laugh,「笑う」,わらう
++to put on cloth,「を着る」,きる
++to get sleepy,「が眠くなる」,ねくなる
++to get something,[を得る],える
++to get tired,「が疲れる」,つかれる
++to polish something,「を磨く」,みがく
++to include something,「を含める」,ふくめる
++to play music,「を弾く」,ひく
++to hold something,「を持つ」,もつ
++to hide something,「を隠す」,かくす
++to hide,「が隠れる」,かくれる
++to get hurt ,「が傷つく」,きずつく
++to grasp,「を握る」,にぎる
++to look around ,「周りを見回す」,まわりをみまわす
++to greet someone,「を出迎える」,でむかえる
++to feel something,「～を感じる」,かんじる
++to fight with someone,「誰かと戦う」,たたかう
++to flow,「流れる」,ながれる
++to forget something,「～を忘れる」,わすれる
++to gather something,「～を集める」,あつめる
++to gather up,「が集まる」,あつまる
++to get angry,「が怒る」,おこる
++to get arrested,「が逮捕される」,たいほされる
++to get broken ,「が壊れる」,こわれる
++to get bullied,「が苛められる」,いじめられる
++to get caught,「が捕まる」,つかまる
++to get dry,「が乾く」,かわく
++to point at something,「何かを指す」,さす
++to fall on to something,「～に落ちる」,おちる
++to fear someone,「誰かを恐れる」,おそれる
++to express something,「～を表す」,あらわす
++to exclude something,「を除く」,のぞく
++to end something,「～を終える」,おえる
++to enter somewhere,「～に入る」,はいる
++to smoke something,「を吸う」,すう
++to call something,「を呼ぶ」,よぶ
+[to call is to loudly say a persons name]
+
++to find something,「～を見つける」,みつける
+
++to push something,「何かを押す」,なにかをおす
++to push something into(to press),「を押し込む」,おしこむ
+
++to come in dancing(artistically moving),「舞い込む」,まいこむ
+[to revolving]
+[to flatter],ひらひら,
+
++to come in,「入り込む」,はいりこむ
+
++to fall down dancing(artistically moving),「舞い散る」,まいちる
+[to whirl down]
+
++to spin,「グルグル回る」、ぐるぐるまわる
++to spin,「巡る」,めぐる
+
++to stick something on a wall,「を張る」,はる
+
++to increase something,「何かを増やす」,ふやす
++to increase,「が増える」,ふえる
+
++to decrease,「が減る」,へる
++to decrease something,「を減らす」,へらす
+
++to cover something,「被る」,かぶる
+[to cover a head with a hat]
+[to cover a vally with a snow]
+
++to wrap something,「包む」,つつむ
+[to wrap something with a paper]
+
++to be in a difficult situation,[が困る],こまる
+[i have lost my wallet and i can't go back home, i am in a difficult situation]
+[if i had to chose tea or coffee this would be difficult situation for me]
+
++to begin something,「～を始める」,はじめる
+[i begun to move]
+
++to blink,「瞬く」,またたく
+[]
+
+
++to burry something,「～を埋める」,うめる
+[Pirates friquently burry treasures and mark the spot on a map]
+
++to clap,拍手する,はくしゅする
+[at the end of gym  we clap our hands]
+[this time one hand was busy so i clapped against my thigh]
+
+
++to clean something,「～を掃除する」,そうじする
+[there was a lot of dust in the room]
+[cloth was on a floor]
+[i had to clean it up]
+
++to click ,クリックする,くりっくする
+[cicking with one's tongue or a pen or a mouse]
+
++to disappear,「消える」,きえる
+[suddenly to become unseen]
+[to be gone]
+[my wallet has disappeared!]
+
++to get used to,「が慣れる」,なれる
+
+
++to start doing something,「〜を始める」,はじめる
++to stand,「が立つ」,立つ
++to start moving,「が動き始める」,うごきはじめる
+
++to go out somewhere,「に出かける」,でかける
+
++to grow as living thing,「が生える」,はえる
++to grow living things,「を育てる」,そだてる
++to hang(to come in contact),「が掛かる」,かかる
++to happen to pass,「が通りかかる」,とおりかかる
+[to come in contact while passing nearby]
++to stretch something,「を伸ばす」,のばす
+--------------------------------- 
+
+to inhale,「吸い込む」,すいこむ
+[part of breathing cycle]
+[to inhave / to exhale]
+
+to exhale,「」,
+
+to approach and keep distance,「近付く」,ちかづく
+[おいづく same づく meaning]
+[to keep distance]
+[付いてくる = to come attached, to follow]
+
+to fall intensively,「降り頻る」,ふりしきる
+[to do something with extra effort]
+[to happen more intensively than usually]
+
+to cry intensively(loudly),「泣き頻る」,なきしきる
+to hide something well,「隠し頻る」,かきしきる
+
+to lean on hands,「手を付く」,てをつく
+[to help to maintain posture using hands]
+
+to hit with a hand something,「を打つ」,うつ
+to hit(to reach a destination),「が当たる」,あたる
+
+
+to be piled up,「積まれる」,つまれる
+[unordered pile of things put on on top of another]
+
+to be stacked,「が重なる」,かさなる
+[ordered pile of things, carefully stacked one on top of another]
+
+to put on a stack,「を重ねる」,かさねる
+
+to be similar to something,「に似る」,にる
+「similar doesnt mean the same」
+
+
+to alleviate pain,「」
+[to make pain sympthoms felt less]
+[to make something lighter]
+[in Old Latin it means to lift something up]
+ 
+
+to cheer someone up,励ます,はげます
+[someone was sitting head lowered to the chest so i tried to cheer him up]
+[turned out that he was just sleeping]
+
+
+
+to collaborate with someone,「誰かと協力する」,きょうりょくする
+[to have a common goal and to team up with someone for collaboration]
+[to collaborate means to do the same kind of work toward common goal]
+
+ 
+to complicate something,「～を複雑にする」,ふくざつにする
+[to make something less easy]
+[to make something harder to understand]
+[to make something to have extra details that aren't required in a current situation]
+
+to compose something,構成する,こうせいする
+[to compose is to put smaller parts together in order to create a final object]
+
+to compress something,圧縮する,あっしゅくする
+[to compress is to apply pressure to make something smaller that it normally is]
+[to compress an air]
+[to compress a file]
+[in artistical language you can say "compress your idea"]
+
+to condensate ,凝縮する,ぎょうしゅくする
+[water vapor condensates when the temperature is lowered]
+[to change state from vapor to liquid]
+
+to connect with something,「～に接続する」,せつぞくする
+[connect two cables together]
+[the cities are connected with highways]
+[to connect is to join]
+
+to conquer something,「～を征服する」,せいふくする
+[to conquer is to win a battle and to receive a territory]
+[the territory or a city was conqured by someone in 1999...]
+
+to consume something,「～を消費する」,しょうひする
+[to consume is to eat]
+[in chemistry, reaction consumes reactants and creates products]
+[this trip will consume all your money]
+[a resource is consumed while doing work]
+
+
+to crawl,「が這う」,はう
+[crawl on my knees]
+[to move using arms and knees]
+
+to crouch,「シャガム」,しゃがむ
+[is to seat without a chair,on your legs]
+
+to decay,「腐る」,くさる
+[the means to lose quality over time]
+[dead body decay]
+[to decay is to rot]
+[radioactive atoms have decay period]
+
+to decelerate,「減速する」,げんそくする
+[to change speed ever second , to slow down]
+
+to decompose something,「～を分解する」,ぶんかいする
+[opposite of to compose, to make something apart]
+[to take something complex and disassemble it]
+[decompose in order to see what it is made of]
+[same as analysis]
+[in some way same as decay]
+[leafs are decomposing]
+[could be the same as decay]
+
+to detach something from something,「取り外す」,とりはずす
+[after attaching the cable to the tv, dont forget to detach it]
+[opposite to attaching]
+
+to dig something out,「～を掘り出す」,ほりだす
+[after pirates burry their treasure, they usually dig it up]
+
+to disagree with an opinion,「意見と同意しない」,どういしない
+[when someone expresses his oppinion about something, you can agree or disagree with that oppinion]
+
+
+
+
+
+to disconnect from something,「～から切断する」,せつだんする
+to divide something by,「～で～を割る」,わる
+
+to emphasize something,「～を強調する」,きょうちょうする
+to empty something,「～を空にする」,からにする
+
+to evaporate ,「が蒸発する」,じょうはつする
+
+to explode,「が爆発する」,ばくはつする
+
+to fall down rolling,「が転がり落ちる」,ころがりおちる
+
+to feed someone,「食わす」,くわす
+
+to fill something up,「～を～で満たす」,みたす
+
+to fix something,「～を修理する」,しゅうりする
+
+to flip something,「ひっくり返す」,ひっくりかえす
+
+to get empty,「が空になる」,からになる
+
+to collide with something,「がブツカル」,ぶつかる
+
+to get influenced by someone,「が誰かの影響を受ける」,えいきょうをうける
+to get lost,「が迷う」,まよう
+[to lose a way]
+[to be lost in thoughts = to be confused]
+
+to get motivated,「が刺激を受ける」,しげきをうける
+[motivation is vision of near future where one wants to get]
+[normal meaning is to get moving]
+[i am motivated to lear Japanse]
+[why am i learning Japanese?]
+[the answer is that i am motivated by some idea]
+
+to get punished,「が罰を受ける」,ばつをうける
+to get rid of something,「～を退治する」,たいじする
+
+ 
+
+to harm someone,「に危害を加える」,きがいをくわえる
+to hear something,「を耳にする」,みみにする
+to heat something up,「を暖める」,あたためる
+to hesitate,「が迷う」,まよう
+
+
+
+to hope for something,「何かを願う」,ねがう
+to imagine something,「何かを想像する」,そうぞうする
+to implode,[が爆縮する],ばくしゅくする
+
+
+to influence someone,「に影響を与える」,えいきょうをあたえる
+to interrogate someone,「を尋問する」,じんもんする
+to itch,「がムズムズ」,むずむずする
+to jump over something,「何かを飛び越える」,とびこえる
+to keep in memory,「を覚える」,をおぼえる
+to knock on something,「ノックする」,のっくする
+
+to learn something,「を学ぶ」,まなぶ
+to leave somewhere,「どこかを出発する」,しゅっぱつする
+to leisure,「が遊ぶ」,あそぶ
+to lent something,「を貸す」,かす
+to lie about something,「に嘘をつく」,うそをつく
+to lie down,「が横になる」,よこになる
+to lift something,「何かを持ち上げる」,もちあげる
+to line up something,[を並べる],ならべる
+to liquify something,「を溶かす」,とかす
+
+
+to loosen something,「何かを緩める」,ゆるめる
+to lose something,「何かを失う」,うしなう
+to lubricate something,「に潤滑油を塗る」,じゅんかつゆをぬる
+
+to make something dirty,「何かを汚す」,よごす
+to make something stand,「を立てる」,たてる
+to make something wet,「何かを濡らす」,ぬらす
+
+to measure something,「を測る」,はかる
+to memorize something,「を覚える」,おぼえる
+to mix something together,「何かを混ぜる」,まぜる
+
+to nod,「が頷く」,うなずく
+to notice something,「何が気付く」,きづく
+to obay(to follow),「が従う」,したがう
+to obtain(to get),「を手に入れる」,てにいれる
+to open the door,「何かを開く」,あく
+
+to pack something in,「～を詰める」,つめる
+to paint something,「～を塗る」,ぬる
+to pass something over,「～を渡す」,わたす
+to pay attention to something,「～に注意を払う」,ちゅういをはらう
+
+to plant something,「～を植える」,うえる
+
+
+to poke at something,「を突く」,つつく
+
+to possess something,「を所有する」,しょゆうする
+to prepare something,「何かを用意する」,よういする
+to present something(without giving),「を差し出す」,さしだす,
+to present something and give,「を差し上げる」,さしあげる
+
+to print something,「何かを印刷する」,いんさつする
+to produce something,[何かを生産する],せいさんする
+to prohibit something,「を禁止する」,きんしする
+to protect something,「を保護する」,ほごする
+to pull something,「を引っ張る」,ひっぽる
+to punish someone,「罰を与える」,ばつをあげる
+
+
+
+to put something in order,「を整理する」,せいりする
+to question someone,「を質問する」,しつもんする
+to react to something,「を反応する」,はんのうする
+
+to recall a memory,「を思い出す」,をおもいだす
+to receive something,「を受ける」,うける
+to recommend something,「を勧める」,すすめる
+to reduce something,「を減らす」,へらす
+to reflect something,「を映す」,うつす
+to replace something,「を取り替える」,くるかえる
+to respect someone,「を尊敬する」,そんけいする
+to retreat,「が後退する」,こうたいする
+
+to reverse something,「を反転する」,はんてんする
+
+to roll something,「を転がす」,ころがす
+to roll,「が転がる」,ころがる
+to rotate something,「を回す」,まわす
+to rotate,「が回る」,まわる
+to run away from someone,「誰かから逃げる」,にげる
+
+to rust,「が錆びる」,さびる
+to safekeep,「を守る」,まもる
+to save someone,「誰かを救う」,すくう
+
+to scratch something,「を引っ掻く」,ひっかく
+
+to sew something,「を縫う」,ぬう
+to shake something,「を振る」,ふる
+
+to shift something,「を移す」,うつす
+
+to shiver,「が震える」,ふるえる
+to shoot at something,「を放つ」,はなつ
+
+to shrink,「が縮む」,ちぢむ
+to signal someone,「を告げる」,つげる
+to simplify something,「を簡素化する」,かんそかする
+
+to slow down,「を減速する」,げんそくする
+to smell something,「を嗅ぐ」,かぐ
+
+
+to sneeze,「が嚏をする」,くしゃみをする
+to solidify something,「を固める」,かためる
+
+
+to speak something,「を語る」,かたる
+to split something up,「を分ける」,わける
+to spray something,「を噴射する」,ふんしゃする
+to spread something,「を広げる」,ひろげる
+
+to stare at something,「を見つめる」,みつめる
+
+
+to stimulate something,「を促す」,うながす
+to stir something,「かき混ぜる」,かきまぜる
+to stop doing something,「〜を止める」,やめる
+to stop moving,「が動きを止める」,とめる
+
+to subtract something,「を引く」,ひく
+to support someone,「をサポートする」,すぽーとする
+
+to swing something,「を振り回す」,ふりまわす
+to synthesize something,「を合成する」,ごうせいする
+[old language syn+thesis = same + place]
+[synchronous = same time]
+[synonym = same word]
+
+to take something away from someone,「を取り上げる」,とりあげる
+
+to taste something,「を味見する」,あじみする
+to teach someone something,「〜に〜を教える」,おしえる
+to tell something,「を伝える」,つたえる
+
+to tick,「がチックする」,ちっくする
+to tie something,[を締める],しめる
+to tilt something,「を傾ける」,かたむける
+to touch something,「を触れる」,ふれる
+to translate something,「何かを翻訳する」,ほんやくする
+to trigger something,「を起こす」,おこす
+to turn something off,「〜を消す」,けす
+to turn something on,「〜をつける」,つける
+to unpack something,「を開く」,ひらく
+
+to vote for something,「〜に投票する」,とうひょうする
+
+to wash something out,「を洗い流す」,あらいながす
+
+to wither,「が枯れる」,かれる
+to worry about something,「〜について心配する」,しんぱいする
+
