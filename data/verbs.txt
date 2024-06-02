@@ -314,12 +314,20 @@
 
 
 
-to lean on hands,「手を付く」,てをつく
+to touch,「手を付く」,てをつく
+[to touch ground with those things]
+
+to lean on hands,「傾く」,
 [to help to maintain posture using hands]
 
-to hit something with a hand ,「を打つ」,うつ
+to punch something,「を打つ」,うつ
+[]
 
-to hit(to reach a destination),「が当たる」,あたる
+to get hit,「がぶつかる」,ぶつかる
+[]
+
+to get hit(to reach a destination),「が当たる」,あたる
+[]
 
 to be piled up,「積まれる」,つまれる
 [unordered pile of things put on on top of another]
