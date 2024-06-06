@@ -1,9 +1,21 @@
-(a stock) exchange tax,取引所税,とりひきじょぜい
+1 pen[cilinder cnt.],一本のペン,いっぽんのぺん
+10th car[without other cnt],第十の車,だいじゅうのくるま
+2nd time[cnt ordinal+prefix],二回目,にかいめ
+3 cars[machines cnt.],三台の車,さんだい
 3rd party,第三者,だいさんしゃ
+4 people[cnt.],四人,よんにん
+5 questions[cnt.],五問,ごもん
+6 cup of tee[cups cnt.],六杯,ろくはいのお茶
+6 times[cnt. times],六回,ろっかい
+7 apples[small cnt.],七個のリンゴ,ななこのりんご
+7 books[cnt. volume],七冊,ななさつ
+8 dogs[small animals cnt.],八匹の犬,はちびきのいぬ
+9 sheets notebook[sheet cnt.],九枚のノート,きゅうまいののと
+a stock exchange tax[securities],証券取引所税,しょうけんとりひきじょぜい
 ability to describe,描写力,びょうしゃりょく
 above-mentioned,上記,じょうき
 absentee voting[throw+ticket],不在者投票,ふざいしゃとうひょう
-abstract(non concrete)[remove+statue],抽象的,ちゅうしょうてき
+abstract(non concrete)[pull+statue],抽象的,ちゅうしょうてき
 abundance[large+quantity],多量,たりょう
 acceleration[add+speed],加速度,かそくど
 action current[electric+flow],活動電流,かつどうでんりゅう
@@ -27,59 +39,39 @@ application(software),アプリ,あぷる
 array[distribute+row],配列,はいれつ
 asymmetry[non-facing+name],非対称,ひたいしょう
 Atlantic Ocean[large+west+ocean],大西洋,たいせいよう
-attention deficit[lack+ness],注意欠如,ちゅういけつじょ
+attention deficit[lack+equal],注意欠如,ちゅういけつじょ
 atypical,非定形,ひていけい
-*Average(math)[flat+equal],平均,へいきん
-awakening(call+wake),喚起,かんき
-Baseball,野球,やきゅう
-basic,基本的,きほんてき
+Average(math)[flat+equal],平均,へいきん
+awakening[call+wake],喚起,かんき
+Baseball[field+ball],野球,やきゅう
+basic[fundamental+main],基本的,きほんてき
 battery,電池,でんち
 before and after(photo),前後,ぜんご
-Behavior(verb),行動,こうどう
+behavior,行動,こうどう
 being upside down,逆立ち,さかだち
-benefit,恩恵,おんけい
 beyond expectations,想定外,そうていがい
-biased(subjective),主観的,しゅかんてき
 bill(at a restaurant),会計,かいけい
 boiling point,沸騰点,ふっとうてん
 both persons,両者,りょうしゃ
-bottle,瓶,びん
+bottle of potion,水薬の瓶,みずぐすりのびん
 bottom(of page),底,そこ
-breach of the rules,規則違反,きそくいはん
+breach of the rules[Regular/uniform],規則違反,きそくいはん
 busy,忙しい,いそがしい
 by any means,手段を選ばずに,しゅだんをえらばずに
 by the way,因みに,ちなみに
 by-product,副産物,ふくさんぶつ
 caller identity,発信者の身元,はっしんしゃのみもと
-caller(originator),発信者,はっしんしゃ
-can or cant,可否,かひ
-Canal,運河,うんが
-capacity to act,行為能力,こういのうりょく
-Carbon,炭素,たんそ
+Canal[pass+river],運河,うんが
+capacity to act[go+do],行為能力,こういのうりょく
+Carbon[coal+plain],炭素,たんそ
 cash money,現金,げんきん
-central ,中枢性,ちゅうすうせい
+center(general),中心,ちゅうしん
 change(from cash),お釣り,おつり
 character(game),人物,じんぶつ
-charge,充電,じゅうでん
 charger,充電器,じゅうでんき
 class(of objects),組,くみ
-cleaning(sweep+exclude),掃除,そうじ
+cleaning[sweep+exclude],掃除,そうじ
 close circle,身内,みうち
-closing time,門限,もんげん
-cnt. any obj,二つ,ふたつ
-cnt. cases,事件,じけん
-cnt. cup/bowls,六杯,ろくはい
-cnt. cylindrical obj,一本,いっぽん
-cnt. machines(cars),三台,さんだい
-cnt. ordinal ,十台目車,じゅうだいめくるま
-cnt. people,四人,よんにん
-cnt. questions,五十問,ごじゅうもん
-cnt. sheets of paper,九枚,きゅうまい
-cnt. small anim,八匹,はちびき
-cnt. small obj(apple),七個,ななこ
-cnt. times rep,二回目,にかいめ
-cnt. times,六回,ろっかい
-cnt. volumes(book),五冊,ごさつ
 Collision,衝突,しょうとつ
 common,共通,きょうつう
 compatibility,適合性,てきごうせい
@@ -171,6 +163,7 @@ familiar,お馴染み,おなじみ
 famous scene,名場面,めいばめん
 farewell party,送別会,そうべつかい
 fatigue,疲労,ひろう
+favour,恩恵,おんけい
 fictitious transaction,架空取引,かくうとりひき
 field trip,見学旅行,けんがくりょこう
 field-of-view,撮像野,さつぞうや
@@ -221,6 +214,7 @@ implantation,埋め込み,うめこみ
 impossible to understand,理解不能,りかいふのう
 in some way,何らか,なんらか
 inactivity,無活動,むかつどう
+incident[instance of happening],事件,じけん
 incomplete,不完全,ふかんぜん
 inconvenient,不都合,ふつごう
 incremental response,増加性応答,ぞうかせいおうとう
@@ -366,6 +360,7 @@ prohibition,禁止,きんし
 projection,投射,とうしゃ
 promise(promise+bundle),約束,やくそく
 propagation,伝播,でんぱ
+pros and cons[can+cant],可否,かひ
 protagonis,主人公,しゅじんこう
 Protest,反対運動,はんたいうんどう
 provoked reaction,誘発反応,ゆうはつはんのう
@@ -458,6 +453,7 @@ strong-willed,意志の強い,いしのつよい
 structure element,構造体要素,こうぞうたいようそ
 student ID card,学生証,がくせいしょう
 subjective symptoms,自覚症状,じかくしょうじょう
+subjective(personal op)[main+outlook],主観的,しゅかんてき
 subjunctive form(could/would)[temporary+fix],仮定形,かていけい
 subordination clause,従属節,じゅうぞくせつ
 sulfur,硫黄,いおう
@@ -475,6 +471,7 @@ syndrom,症候群,しょうこうぐん
 synonym,同意語,どういご
 syntax,文章論,ぶんしょうろん
 tactile sensation,触覚,しょっかく
+tax,税金,ぜいきん
 taxes,税金,ぜいきん
 tension,張力,ちょうりょく
 test,試験,しけん
